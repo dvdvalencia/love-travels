@@ -28,6 +28,25 @@ const NavBar = () => {
     "Santander",
     "Sur de Colombia y Tulcán Ecuador",
   ];
+
+  const seaLocations = [
+    "Tolú y Coveñas",
+    "Arboletes",
+    "Bahía Solano",
+    "Bahía de Triganá",
+    "Capurganá Aéreo y Terrestre",
+    "Combinado por el caribe - Terrestre",
+    "Isla Fuerte",
+    "Isla Palma",
+    "Isla Margarita - Venezuela",
+    "La Guajira Aéreo y Terrestre",
+    "Santa Marta Aéreo y Terrestre",
+    "San Andrés",
+    "San Bernardo del Viento",
+    "Necoclí",
+    "Nuquí",
+    "Providencia"
+  ];
   
   return (
     <div className="fixed top-0 z-50 w-full p-4 text-white bg-blue-500">
@@ -72,147 +91,26 @@ const NavBar = () => {
 
             {/* Dropdown menu */}
             <div
-              id="dropdown"
               className={`${
                 isDropdownOpen ? "block" : "hidden"
-              } z-10 absolute mt-2 bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700`}
+              } absolute z-10 mt-2 bg-white rounded-lg shadow-lg w-64`}
             >
-              <ul
-                className="py-2 text-sm text-gray-700 dark:text-gray-200"
-                aria-labelledby="dropdownDefaultButton"
-              >
-                <li>
-                  <a
-                    href="#Tolú y Coveñas"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Tolú y Coveñas  
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Arboletes"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Arboletes
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Bahía Solano"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Bahía Solano
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Bahía de Triganá"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Bahía de Triganá
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Capurganá Aéreo y Terrestre"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Capurganá Aéreo y Terrestre
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Combinado por el caribe - Terrestre"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Combinado por el caribe - Terrestre
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Isla Fuerte"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Isla Fuerte
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Isla Palma"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Isla Palma
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Isla Margarita - Venezuela"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Isla Margarita - Venezuela
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#La Guajira Aéreo y Terrestre"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    La Guajira Aéreo y Terrestre
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Santa Marta"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Santa Marta Aéreo y Terrestre
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#San Andrés"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    San Andrés
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#San Bernardo del Viento"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    San Bernardo del Viento
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Necoclí"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Necoclí
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Nuquí"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Nuquí
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#Providencia"
-                    className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
-                  >
-                    Providencia
-                  </a>
-                </li>
+              <ul className="py-2 text-sm text-gray-700 divide-y divide-gray-100 dark:bg-gray-700 dark:text-gray-200">
+                {seaLocations.map((location) => (
+                  <li key={location}>
+                    <a
+                      href={`#${location.replace(/\s+/g, "-").toLowerCase()}`}
+                      className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
+                    >
+                      {location}
+                    </a>
+                  </li>
+                ))}
               </ul>
             </div>
-          </li>{" "}
-
+          </li>
+          
+          {/* Menú desplegable de INTERIOR */}
           <li className="relative">
             <button
               onClick={toggleInteriorDropdown}
@@ -255,16 +153,12 @@ const NavBar = () => {
               </ul>
             </div>
           </li>
-
-
-
+          
           <li>
             <a href="#contact" className="hover:text-blue-500">
               Contacto
             </a>
           </li>
-
-
         </ul>
       </nav>
     </div>
