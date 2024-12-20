@@ -49,7 +49,7 @@ const NavBar = () => {
   ];
   
   return (
-    <div className="fixed top-0 z-50 w-full text-white bg-green-600">
+    <div className="fixed top-0 z-50 w-full text-white bg-cover" style={{ backgroundImage: 'url(https://th.bing.com/th/id/R.5587996ef551036d330197fc977c8fb8?rik=N5NC1d4AGjzTFg&riu=http%3a%2f%2fisclinical.com%2fmedia%2frevslider%2fSuperSerum%2fSS_BG.jpg&ehk=ZbZJcRrlkPesJMWjtIp45JqLS8yOG6pQskbipmtnmB0%3d&risl=&pid=ImgRaw&r=0)' }}>
 
       <nav className="flex flex-col items-center justify-between px-6 py-4 text-white">
         {/* Logo */}
@@ -157,7 +157,9 @@ const NavBar = () => {
           
           <li>
             <a href="#contact" className="hover:text-blue-500">
+              <button className="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none  font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center ">
               Contacto
+              </button>
             </a>
           </li>
         </ul>
