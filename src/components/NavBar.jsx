@@ -49,26 +49,27 @@ const NavBar = () => {
   ];
   
   return (
-    <div className="fixed top-0 z-50 w-full p-4 text-white bg-blue-500">
-      <nav className="flex items-center justify-between px-6 py-4 text-white bg-green-600">
+    <div className="fixed top-0 z-50 w-full text-white bg-green-600">
+
+      <nav className="flex flex-col items-center justify-between px-6 py-4 text-white">
         {/* Logo */}
-        <div className="flex items-center space-x-3">
+        <div className="flex items-center w-full space-x-3">
           <img
             src="/love-travels.png"
             alt="Love Travels Logo"
-            className="w-11 h-11"
+            className="w-20 h-20 "
           />
-          <h1 className="text-2xl font-bold">Love Travels</h1>
+          <h1 className="flex-grow text-3xl font-bold text-center ">Love Travels</h1>
         </div>
 
         {/* Navegación */}
-        <ul className="flex items-center space-x-6">
+        <ul className="flex items-center mt-4 space-x-6">
           {/* Menú desplegable de MAR */}
-          <li className="relative">
+          <li className="relative opacity-100">
             <button
               id="dropdownDefaultButton"
               onClick={toggleDropdown}
-              className="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none  font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center "
+              className="text-white  bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none  font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center opacity-100 "
               type="button"
             >
               MAR
@@ -93,9 +94,9 @@ const NavBar = () => {
             <div
               className={`${
                 isDropdownOpen ? "block" : "hidden"
-              } absolute z-10 mt-2 bg-white rounded-lg shadow-lg w-64`}
+              } absolute z-10 mt-2 bg-white rounded-lg shadow-lg w-64`} // organizar  es quinas de la tabla
             >
-              <ul className="py-2 text-sm text-gray-700 divide-y divide-gray-100 dark:bg-gray-700 dark:text-gray-200">
+              <ul className="py-2 text-sm text-gray-700 divide-y divide-gray-100 bg-sky-400 dark:text-gray-900">
                 {seaLocations.map((location) => (
                   <li key={location}>
                     <a
