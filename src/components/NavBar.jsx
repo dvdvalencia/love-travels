@@ -59,11 +59,11 @@ const NavBar = () => {
             alt="Love Travels Logo"
             className="w-20 h-20 "
           />
-          <h1 className="flex-grow text-3xl font-bold text-center ">Love Travels</h1>
+          <h1 className="flex-grow text-5xl font-bold text-center ">Love Travels</h1>
         </div>
 
         {/* Navegación */}
-        <ul className="flex items-center mt-4 space-x-6">
+        <ul className="flex items-center mt-2 space-x-8">
           {/* Menú desplegable de MAR */}
           <li className="relative opacity-100">
             <button
@@ -96,7 +96,8 @@ const NavBar = () => {
                 isDropdownOpen ? "block" : "hidden"
               } absolute z-10 mt-2 bg-white rounded-lg shadow-lg w-64`} // organizar  es quinas de la tabla
             >
-              <ul className="py-2 text-sm text-gray-700 divide-y divide-gray-100 bg-sky-400 dark:text-gray-900">
+              {/* <ul className="py-2 text-sm text-gray-700 divide-y divide-gray-100 bg-sky-400 dark:text-gray-900"> */}
+              <ul className="py-2 text-sm text-gray-700 divide-y divide-gray-100 dark:bg-gray-700 dark:text-gray-200">
                 {seaLocations.map((location) => (
                   <li key={location}>
                     <a
@@ -156,7 +157,7 @@ const NavBar = () => {
           </li>
           
           <li>
-            <a href="#contact" className="hover:text-blue-500">
+            <a href="contacto" className="hover:text-blue-500">
               <button className="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none  font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center ">
               Contacto
               </button>

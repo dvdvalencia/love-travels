@@ -1,0 +1,15 @@
+{
+    "destino": "Coveñas",
+    "fechas_programadas": 2025,
+    "hoteles": [
+      {
+  "fecha": 1,
+  "precio":1 ,
+  "noches":1 ,
+  "nombre": 1,
+  "caracteristicas":1
+        }
+      
+    ]
+}
+  
