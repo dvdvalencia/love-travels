@@ -1,15 +1,602 @@
 {
-    "destino": "Coveñas",
-    "fechas_programadas": 2025,
-    "hoteles": [
-      {
-  "fecha": 1,
-  "precio":1 ,
-  "noches":1 ,
-  "nombre": 1,
-  "caracteristicas":1
-        }
-      
-    ]
-}
+  "destino": "Coveñas",
+  "fechas_programadas": 2025,
+  "hoteles": [
+    {
+      "fecha": "Febrero 03 al 06",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Febrero 05 al 08",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Febrero 07 al 10",
+      "precio": 459000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "Bar abierto, 3 comidas"
+    },
+    {
+      "fecha": "Febrero 07 al 11",
+      "precio": 579000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "Bar abierto, 3 comidas"
+    },
+    {
+      "fecha": "Febrero 10 al 13",
+      "precio": 459000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Febrero 12 al 15",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Febrero 13 al 17",
+      "precio": 439000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Febrero 14 al 17",
+      "precio": 459000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "Bar abierto, 3 comidas"
+    },
+    {
+      "fecha": "Febrero 14 al 18",
+      "precio": 579000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "Bar abierto, 3 comidas"
+    },
+    {
+      "fecha": "Febrero 17 al 20",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Febrero 21 al 24",
+      "precio": 459000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "Bar abierto, 3 comidas"
+    },
+    {
+      "fecha": "Febrero 21 al 25",
+      "precio": 579000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "Bar abierto, 3 comidas"
+    },
+    {
+      "fecha": "Febrero 24 al 27",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Febrero 28 al 03",
+      "precio": 459000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "Bar abierto, 3 comidas"
+    },
+    {
+      "fecha": "Febrero 28 al 04",
+      "precio": 579000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "Bar abierto, 3 comidas"
+    },
+    {
+      "fecha": "Marzo 03 al 06",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Marzo 07 al 10",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Marzo 07 al 11",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Marzo 10 al 13",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Marzo 14 al 17",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Marzo 14 al 18",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Marzo 17 al 20",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Marzo 20 al 24",
+      "precio": 669000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "Puente, 3 comidas"
+    },
+    {
+      "fecha": "Marzo 21 al 24",
+      "precio": 629000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "Puente, 3 comidas"
+    },
+    {
+      "fecha": "Marzo 28 al 31",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Marzo 28 al 01",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 04 al 07",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 04 al 08",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 07 al 10",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 11 al 14",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 11 al 15",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 18 al 21",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 18 al 22",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 21 al 24",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 25 al 28",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 25 al 29",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Abril 28 al 01",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 02 al 05",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 02 al 06",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 05 al 08",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 09 al 12",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 09 al 13",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 12 al 15",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 16 al 19",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 16 al 20",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 19 al 22",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 23 al 26",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 23 al 27",
+      "precio": 549000,
+      "noches": 3,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Mayo 26 al 29",
+      "precio": 439000,
+      "noches": 2,
+      "nombre": "Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Junio 06 al 09",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Junio 06 al 10",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Junio 13 al 16",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Junio 13 al 17",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Junio 16 al 19",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 04 al 07",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 04 al 08",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 07 al 10",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Junio 09 al 12",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 11 al 14",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 11 al 15",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 14 al 17",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 18 al 21",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 18 al 22",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 21 al 25",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 25 al 28",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 25 al 29",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 28 al 25",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 01 al 04",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 01 al 05",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 04 al 07",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 08 al 11",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 08 al 12",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 11 al 15",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 22 al 25",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 22 al 26",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 25 al 28",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 29 al 01",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 29 al 02",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 01 al 04",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 05 al 08",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 05 al 09",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 08 al 11",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 12 al 15",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 12 al 16",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 15 al 18",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 19 al 22",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 19 al 23",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 22 al 25",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 26 al 29",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 26 al 30",
+      "noches": 3,
+      "precio": 549000,
+      "descripcion": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 29 al 02",
+      "noches": 2,
+      "precio": 439000,
+      "descripcion": "Promo 3 comidas"
+    }
+  ]
   
+}
