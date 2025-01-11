@@ -1,0 +1,105 @@
+{
+    "destino": "Cartagena",
+    "BGimagen": "https://cdn.colombia.com/images/v2/turismo/sitios-turisticos/tolu/Mar-Caribe-en-tolu-Covenas-en-Colombia-1200.jpg",
+    "fechas_programadas": 2025,
+    "hoteles": [
+      {
+        "fecha": "Febrero 07 al 10",
+        "precio": 545000,
+        "noches": 2,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena "
+      },
+      {
+        "fecha": "Abril 11 al 14",
+        "precio": 545000,
+        "noches": 2,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena "
+      },
+      {
+        "fecha": "Abril 15 al 19",
+        "precio": 990000,
+        "noches": 3,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena, Semana Santa "
+      },
+      {
+        "fecha": "Abril 16 al 20",
+        "precio": 990000,
+        "noches": 3,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena, Semana Santa "
+      },
+      {
+        "fecha": "Abril 30 al 04",
+        "precio": 685000,
+        "noches": 3,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena, Semana Santa "
+      },
+      {
+        "fecha": "Junio 13 al 16",
+        "precio": 545000,
+        "noches": 2,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena "
+      },
+      {
+        "fecha": "Julio 18 al 21",
+        "precio": 545000,
+        "noches": 2,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena "
+      },
+      {
+        "fecha": "Agosto 6 al 10",
+        "precio": 685000,
+        "noches": 3,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena "
+      },
+      {
+        "fecha": "Agosto 7 al 10",
+        "precio": 545000,
+        "noches": 2,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena "
+      },
+      {
+        "fecha": "Septiembre 19 al 22",
+        "precio": 545000,
+        "noches": 2,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena "
+      },
+      {
+        "fecha": "Diciembre 22 al 26",
+        "precio": 990000,
+        "noches": 3,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena, Navidad "
+      },
+      {
+        "fecha": "Diciembre 25 al 30",
+        "precio": 990000,
+        "noches": 4,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena, Navidad "
+      },
+      {
+        "fecha": "Diciembre 26 al 30",
+        "precio": 990000,
+        "noches": 3,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena, Navidad "
+      },
+      {
+        "fecha": "Diciembre 29 al 02",
+        "precio": 990000,
+        "noches": 3,
+        "nombre": "Hotel Toledo",
+        "caracteristicas": "desayuno y cena, Año Nuevo "
+      }
+    ]
+}
