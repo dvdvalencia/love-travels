@@ -7,7 +7,7 @@ const Tolu = () => {
 
   // Cargar el archivo JSON al montar el componente
   useEffect(() => {
-    fetch("public/tolu.json")
+    fetch("/tolu.json")
       .then((response) => response.json())
       .then((jsonData) => setData(jsonData))
       .catch((error) => console.error("Error al cargar el JSON:", error));
