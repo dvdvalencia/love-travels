@@ -6,12 +6,8 @@ const NavBar = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [isInteriorOpen, setIsInteriorOpen] = useState(false);
   // Función para alternar el menú desplegable
-  const toggleDropdown = () => {
-    setIsDropdownOpen((prevState) => !prevState);
-  };
-  const toggleInteriorDropdown = () => {
-    setIsInteriorOpen((prevState) => !prevState);
-  };
+  const toggleDropdown = () => setIsDropdownOpen((prevState) => !prevState);
+  const toggleInteriorDropdown = () => setIsInteriorOpen((prevState) => !prevState);
 
   const interiorLocations = [
     "Amazonas",
@@ -48,6 +44,12 @@ const NavBar = () => {
     "Providencia"
   ];
   
+  const customRoutes = {
+    "Tolú y Coveñas": "/tolu",
+    "Bahía Solano": "/bahia-solano",
+    "Amazonas": "/amazonas",
+  };
+
   return (
     <div className="fixed top-0 z-50 w-full text-white bg-cover" style={{ backgroundImage: 'url(https://th.bing.com/th/id/R.5587996ef551036d330197fc977c8fb8?rik=N5NC1d4AGjzTFg&riu=http%3a%2f%2fisclinical.com%2fmedia%2frevslider%2fSuperSerum%2fSS_BG.jpg&ehk=ZbZJcRrlkPesJMWjtIp45JqLS8yOG6pQskbipmtnmB0%3d&risl=&pid=ImgRaw&r=0)' }}>
 
@@ -67,7 +69,7 @@ const NavBar = () => {
           {/* Menú desplegable de MAR */}
           <li className="relative opacity-100">
             <button
-              id="dropdownDefaultButton"
+
               onClick={toggleDropdown}
               className="text-white  bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none  font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center opacity-100 "
               type="button"
@@ -101,7 +103,10 @@ const NavBar = () => {
                 {seaLocations.map((location) => (
                   <li key={location}>
                     <a
-                      href={`#${location.replace(/\s+/g, "-").toLowerCase()}`}
+                      href={
+                        customRoutes[location]
+                          ? customRoutes[location]
+                          : `#${location.replace(/\s+/g, "-").toLowerCase()}`}
                       className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
                       {location}
@@ -145,7 +150,10 @@ const NavBar = () => {
                 {interiorLocations.map((location) => (
                   <li key={location}>
                     <a
-                      href={`#${location.replace(/\s+/g, "-").toLowerCase()}`}
+                      href={
+                        customRoutes[location]
+                        ? customRoutes[location]
+                        : `#${location.replace(/\s+/g, "-").toLowerCase()}`}
                       className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white"
                     >
                       {location}
