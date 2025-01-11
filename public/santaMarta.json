@@ -1,0 +1,196 @@
+{
+    "destino": "Santa Marta",
+    "BGimagen": "https://www.livincolombia.com.co/images/w.1280/h.853/c.1/mr.1/md.auto/d.guide_photos/sd.2016-08/i.e039a536ba7bab33602f347182fbaf06.jpg",
+    "hoteles": [
+      {
+        "fecha": "Febrero 14 al 17",
+        "precio": 469000,
+        "noches": 2,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento"
+      },
+      {
+        "fecha": "Febrero 14 al 18",
+        "precio": 575000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento"
+      },
+      {
+        "fecha": "Febrero 20 al 24",
+        "precio": 575000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento"
+      },
+      {
+        "fecha": "Marzo 19 al 24",
+        "precio": 799000,
+        "noches": 4,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Marzo 20 al 24",
+        "precio": 669000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Abril 12 al 16",
+        "precio": 669000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Semana Santa"
+      },
+      {
+        "fecha": "Abril 15 al 20",
+        "precio": 799000,
+        "noches": 4,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Semana Santa"
+      },
+      {
+        "fecha": "Abril 15 al 19",
+        "precio": 669000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Semana Santa"
+      },
+      {
+        "fecha": "Abril 16 al 20",
+        "precio": 669000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Semana Santa"
+      },
+      {
+        "fecha": "Abril 30 al 04",
+        "precio": 575000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento"
+      },
+      {
+        "fecha": "Mayo 15 al 19",
+        "precio": 575000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento"
+      },
+      {
+        "fecha": "Mayo 28 al 02",
+        "precio": 799000,
+        "noches": 4,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Mayo 29 al 02",
+        "precio": 615000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Junio 18 al 23",
+        "precio": 799000,
+        "noches": 4,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Junio 19 al 23",
+        "precio": 669000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Junio 25 al 30",
+        "precio": 799000,
+        "noches": 4,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Junio 26 al 30",
+        "precio": 669000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Julio 16 al 20",
+        "precio": 575000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento"
+      },
+      {
+        "fecha": "Julio 17 al 21",
+        "precio": 575000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento"
+      },
+      {
+        "fecha": "Agosto 06 al 10",
+        "precio": 575000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento"
+      },
+      {
+        "fecha": "Agosto 13 al 18",
+        "precio": 799000,
+        "noches": 4,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Septiembre 03 al 07",
+        "precio": 575000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento"
+      },
+      {
+        "fecha": "Septiembre 04 al 07",
+        "precio": 469000,
+        "noches": 2,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento"
+      },
+      {
+        "fecha": "Octubre 08 al 13",
+        "precio": 799000,
+        "noches": 4,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Octubre 29 al 03",
+        "precio": 799000,
+        "noches": 4,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Noviembre 12 al 17",
+        "precio": 799000,
+        "noches": 4,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      },
+      {
+        "fecha": "Diciembre 03 al 08",
+        "precio": 799000,
+        "noches": 4,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayuno y cena por noche de alojamiento, Puente"
+      }
+    ]
+  }
+  

@@ -31,6 +31,7 @@ const NavBar = () => {
     "Bahía Solano",
     "Bahía de Triganá",
     "Capurganá Aéreo y Terrestre",
+    "Cartagena",
     "Combinado por el caribe - Terrestre",
     "Isla Fuerte",
     "Isla Palma",
@@ -48,6 +49,8 @@ const NavBar = () => {
     "Tolú y Coveñas": "/tolu",
     "Bahía Solano": "/bahia-solano",
     "Amazonas": "/amazonas",
+    "Santa Marta Aéreo y Terrestre" : "/santamarta",
+    "Cartagena": "/cartagena",
   };
 
   return (

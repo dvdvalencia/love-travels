@@ -3,12 +3,12 @@
 import { useState, useEffect } from "react";
 import Destination from './Destination';
 
-const Tolu = () => {
+const SantaMarta = () => {
   const [data, setData] = useState(null);
 
   // Cargar el archivo JSON al montar el componente
   useEffect(() => {
-    fetch("/tolu.json")
+    fetch("/santaMarta.json")
       .then((response) => response.json())
       .then((jsonData) => setData(jsonData))
       .catch((error) => console.error("Error al cargar el JSON:", error));
@@ -18,6 +18,7 @@ const Tolu = () => {
     return <div className="text-center text-white">Cargando información...</div>;
   }
 
-return <Destination data={data} backgroundImage="/BG-coveñas.jpg" />;
+  return <Destination data={data} backgroundImage="/BGsantaMarta.jpg" />;
 };
-export default Tolu;
+
+export default SantaMarta;
