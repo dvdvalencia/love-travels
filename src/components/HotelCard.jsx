@@ -1,6 +1,7 @@
+// src/components/HotelCard.jsx
 const HotelCard = ({ hotel }) => {
     return (
-      <div className="p-4 bg-gray-800 border border-gray-600 rounded-lg bg-opacity-90">
+      <div className="p-4 bg-gray-800 border border-gray-600 rounded-lg bg-opacity-80">
         <h3 className="text-xl font-bold">{hotel.nombre}</h3>
         <p>
           <strong>Fecha:</strong> {hotel.fecha}

@@ -1,4 +1,4 @@
-import NavBar from "@/components/NavBar";
+import NavBar from "@/components/NavBar/NavBar.jsx";
 // import Footer from "@/components/Footer";
 import localFont from "next/font/local";
 import "./globals.css";

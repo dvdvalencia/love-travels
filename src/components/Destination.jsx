@@ -1,6 +1,6 @@
 // src/components/Destination.jsx
 import HotelCard from './HotelCard';
-
+import Plan from "@/components/Plan.jsx";
 const Destination = ({ data, backgroundImage }) => {
   return (
     <div
@@ -26,6 +26,7 @@ const Destination = ({ data, backgroundImage }) => {
           ))}
         </div>
       </div>
+      <Plan />
     </div>
   );
 };
