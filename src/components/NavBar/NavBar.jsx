@@ -64,7 +64,7 @@ const NavBar = () => {
             alt="Love Travels Logo"
             className="w-20 h-20 "
           />
-          <h1 className="flex-grow text-5xl font-bold text-center ">Love Travels</h1>
+          <h1 className="flex-grow text-5xl font-bold text-center ">LOVE TRAVELS</h1>
         </div>
 
         {/* Navegación */}
