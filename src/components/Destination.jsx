@@ -33,7 +33,7 @@ const Destination = ({ data, backgroundImage }) => {
       </p>
             {/* Dropdown para seleccionar el mes */}
             <select
-        className="p-2 mt-4 text-black rounded-lg"
+        className="p-2 mt-4 text-gray-200 rounded-lg bg-opacity-80 bg-slate-700"
         value={selectedMonth}
         onChange={(e) => setSelectedMonth(e.target.value)}
       >
