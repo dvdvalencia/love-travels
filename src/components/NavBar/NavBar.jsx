@@ -77,7 +77,7 @@ const NavBar = () => {
             <button
 
               onClick={toggleDropdown}
-              className="text-white  bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none  font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center opacity-100 "
+              className="flex px-8 py-2 mx-auto text-lg text-white bg-green-600 border-0 rounded opacity-100 focus:outline-none hover:bg-green-700 "
               type="button"
             >
               MAR
@@ -127,7 +127,7 @@ const NavBar = () => {
           <li className="relative">
             <button
               onClick={toggleInteriorDropdown}
-              className="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none  font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center "
+              className="flex px-8 py-2 mx-auto text-lg text-white bg-green-600 border-0 rounded opacity-100 focus:outline-none hover:bg-green-700"
             >
               Interior de Colombia
               <svg
@@ -172,7 +172,7 @@ const NavBar = () => {
           
           <li>
             <a href="contacto" className="hover:text-blue-500">
-              <button className="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none  font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center ">
+              <button className="flex px-8 py-2 mx-auto text-lg text-white bg-green-600 border-0 rounded opacity-100 focus:outline-none hover:bg-green-700">
               Contacto
               </button>
             </a>
