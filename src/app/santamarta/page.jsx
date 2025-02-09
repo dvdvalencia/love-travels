@@ -1,6 +1,6 @@
 import SantaMarta from "@/components/SantaMarta";
-const ToluPage = () => {
+const SantaMartaPage = () => {
     return <SantaMarta />;
   };
 
-export default ToluPage
+export default SantaMartaPage

@@ -1,0 +1,27 @@
+{
+    "destino": "Capurgana",
+    "BGimagen": "https://raw.githubusercontent.com/JhamG9/api-viaja/main/uploads/capurgana/capurgana-sapzurro.webp",
+    "hoteles": [
+      {
+        "fecha": "Febrero 03 al 07",
+        "precio": 0,
+        "noches": 3,
+        "nombre": "",
+        "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+      },
+      {
+        "fecha": "Febrero 06 al 10",
+        "precio": 575000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+      },
+      {
+        "fecha": "Febrero 10 al 14",
+        "precio": 575000,
+        "noches": 3,
+        "nombre": "Apartamentos Karey",
+        "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+      }
+    ]
+    }

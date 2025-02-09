@@ -1,7 +1,7 @@
 import Cartagena from "@/components/Cartagena";
 
-const ToluPage = () => {
+const CartagenaPage = () => {
     return <Cartagena />;
   };
 
-export default ToluPage
+export default CartagenaPage

@@ -30,11 +30,7 @@ return (
       backgroundAttachment: "fixed",
     }}
   >
-    <br /><br />
-    <br />
-    <br />
-    <br />
-    <h1 className="text-4xl font-bold text-center">{data.destino}</h1>
+    <h1 className="mt-40 text-4xl font-bold text-center">{data.destino}</h1>
     <p className="mt-2 text-lg text-center">
       Fechas programadas: {data.fechas_programadas}
     </p>
