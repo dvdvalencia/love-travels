@@ -8,11 +8,10 @@ const NavBar = () => {
   const [isInteriorOpen, setIsInteriorOpen] = useState(false);
 
   const toggleDropdown = () => {
-    if (isInteriorOpen) {
-      setIsInteriorOpen(false); 
-    }
+    isInteriorOpen && setIsInteriorOpen(false);
     setIsDropdownOpen(!isDropdownOpen);
   };
+  
 
   const toggleInteriorDropdown = () => {
     if (isDropdownOpen) {
