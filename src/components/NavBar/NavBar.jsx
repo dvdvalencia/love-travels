@@ -54,6 +54,17 @@ const NavBar = () => {
 
 
     "Amazonas": "/amazonas",
+    "Boyacá": "/boyaca",
+    "Buga": "/buga",
+    "Bogotá - Plan Visa": "/bogota-visa",
+    "Caño Cristales": "/cano-cristales",
+    "Desierto de la Tatacoa": "/tatacoa",
+    "Eje Cafetero": "/eje-cafetero",
+    "Llanos Orientales": "/llanos-orientales",
+    "Huila al Límite": "/huila",
+    "Nevado de Santa Isabel": "/nevado-santa-isabel",
+    "Santander": "/santander",
+    "Sur de Colombia y Tulcán Ecuador": "/tulcan-ecuador",
   };
 
   return (
@@ -63,7 +74,9 @@ const NavBar = () => {
       <nav className="flex flex-col items-center justify-between px-6 py-4 text-white">
         {/* Logo */}
         <div className="flex items-center w-full space-x-3">
-          <img src="/love-travels.png" alt="Love Travels Logo" className="w-20 h-20" />
+          <a href="/">
+          <img src="/love-travels-logo.ico" alt="Love Travels Logo" className="w-20 h-20" />
+          </a>
           <h1 className="flex-grow text-5xl font-bold text-center">LOVE TRAVELS</h1>
         </div>
 

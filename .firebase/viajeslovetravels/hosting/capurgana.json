@@ -4,23 +4,23 @@
     "hoteles": [
       {
         "fecha": "Febrero 03 al 07",
-        "precio": 1479000,
+        "precio": 0,
         "noches": 3,
-        "nombre": "Hotel las Palmeras sin piscina",
+        "nombre": "",
         "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
       },
       {
         "fecha": "Febrero 06 al 10",
-        "precio": 1759000,
+        "precio": 575000,
         "noches": 3,
-        "nombre": "Cabañas Samantha",
+        "nombre": "Apartamentos Karey",
         "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
       },
       {
         "fecha": "Febrero 10 al 14",
-        "precio": 1849000,
+        "precio": 575000,
         "noches": 3,
-        "nombre": "Hotel Calipso frente a la playa",
+        "nombre": "Apartamentos Karey",
         "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
       }
     ]
