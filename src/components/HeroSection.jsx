@@ -2,7 +2,7 @@ import React from 'react'
 
 export const HeroSection = () => {
   return (
-    <section className="relative h-screen bg-[url('/public/hero-image.jpg')] bg-cover bg-center flex items-center justify-center">
+    <section className="relative h-screen bg-[url('/love-travels.png')] mt-40 bg-cover bg-center flex items-center justify-center">
     <div className="p-8 text-center rounded-lg shadow-lg bg-white/75">
       <h2 className="text-4xl font-bold text-gray-900">
         ¡Explora el mundo con LOVE TRAVELS!

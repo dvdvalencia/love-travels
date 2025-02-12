@@ -2,7 +2,7 @@ import React from "react";
 
 const Contacto = () => {
   return (
-    <div className="bg-blue-600">
+    <div className="bg-blue-300">
       <section className="relative mt-40 text-gray-800 body-font bg-[url(/BGcontacto.jpeg)] bg-no-repeat bg-center ">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col w-full mb-12 text-center">
@@ -104,6 +104,24 @@ const Contacto = () => {
                       </svg>
                     </a>
                     <a
+                      href="https://wa.link/mhinmk"
+                      target="_blank"
+                      className="flex items-center"
+                    >
+                      <svg
+                        fill="none"
+                        stroke="currentColor"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth="2"
+                        className="w-10 h-10 text-green-600"
+                        viewBox="0 0 24 24"
+                      >
+                        <path d="M21.764 17.71a9.935 9.935 0 0 1-4.213 4.213c-2.878 1.501-6.338 1.647-9.261.41l-5.644 1.459 1.459-5.644c-1.237-2.923-1.091-6.383.41-9.261A9.935 9.935 0 0 1 6.29 2.236a9.935 9.935 0 0 1 9.261-.41 9.935 9.935 0 0 1 4.213 4.213c1.501 2.878 1.647 6.338.41 9.261zm-2.24-2.576c-.36-.18-2.12-1.04-2.45-1.16-.33-.12-.57-.18-.81.18-.24.36-.93 1.16-1.15 1.4-.21.24-.42.27-.78.09-.36-.18-1.52-.56-2.9-1.77-1.07-.96-1.79-2.15-2-2.5-.21-.36-.02-.56.16-.74.16-.16.36-.42.54-.63.18-.21.24-.36.36-.6.12-.24.06-.45-.03-.63-.09-.18-.81-1.98-1.1-2.68-.3-.72-.6-.62-.81-.63-.21-.01-.45-.01-.69-.01-.24 0-.63.09-.96.45-.33.36-1.25 1.22-1.25 2.98 0 1.76 1.28 3.47 1.46 3.71.18.24 2.53 4.16 6.18 5.84.87.38 1.56.6 2.09.77.88.28 1.68.24 2.32.15.71-.1 2.12-.86 2.41-1.7.3-.84.3-1.58.21-1.74-.09-.17-.33-.27-.69-.45z"></path>
+                      </svg>
+                    </a>
+
+                    <a
                       href="https://www.instagram.com/lovetravels_turism?igsh=d3l0djJzZ2g3cDA1"
                       target="_blank"
                       className="flex items-center"
@@ -129,18 +147,7 @@ const Contacto = () => {
                       </svg>
                     </a>
 
-                    <a className="ml-4 text-gray-500">
-                      <svg
-                        fill="currentColor"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth="2"
-                        className="w-5 h-5"
-                        viewBox="0 0 24 24"
-                      >
-                        <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
-                      </svg>
-                    </a>
+                    
                   </span>
                 </div>
               </div>

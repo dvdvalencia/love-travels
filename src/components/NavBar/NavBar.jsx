@@ -1,5 +1,6 @@
 "use client";
 import { useState } from "react";
+import Link from "next/link";
 import NavItem from "./NavItem";
 import DropdownMenu from "./DropdownMenu";
 
@@ -74,9 +75,9 @@ const NavBar = () => {
       <nav className="flex flex-col items-center justify-between px-6 py-4 text-white">
         {/* Logo */}
         <div className="flex items-center w-full space-x-3">
-          <a href="/">
+          <Link href="/">
           <img src="/love-travels-logo.ico" alt="Love Travels Logo" className="w-20 h-20" />
-          </a>
+          </Link>
           <h1 className="flex-grow text-5xl font-bold text-center">LOVE TRAVELS</h1>
         </div>
 
@@ -91,11 +92,11 @@ const NavBar = () => {
           </NavItem>
 
           <li>
-            <a href="/contacto">
+            <Link href="/contacto">
               <button className="px-8 py-2 text-lg text-white bg-green-600 rounded hover:bg-green-700">
                 Contacto
               </button>
-            </a>
+            </Link>
           </li>
         </ul>
       </nav>
