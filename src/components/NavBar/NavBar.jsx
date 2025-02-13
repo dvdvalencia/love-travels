@@ -90,7 +90,9 @@ const NavBar = () => {
         </div>
 
         {/* Navegación */}
-        <ul className={`flex flex-col mt-2 space-y-2 sm:flex-row sm:space-y-0 sm:space-x-8 sm:mt-0 ${isMenuOpen ? 'block' : 'hidden'} sm:block`}>
+        <ul className={`flex ${isMenuOpen ? 'flex-col space-y-2' : 'hidden'} mt-2 sm:flex-row sm:space-y-0 sm:space-x-8 sm:mt-0`}>
+
+        {/* <ul className={`flex flex-col mt-2 space-y-2  sm:flex-row sm:space-y-0 sm:space-x-8 sm:mt-0 ${isMenuOpen ? 'block' : 'hidden'} sm:block`}> */}
         {/* <ul className={`flex ${isMenuOpen ? 'flex-col space-y-2' : ''} mt-2 sm:flex-row sm:space-y-0 sm:space-x-8 sm:mt-0`}> */}
 
           <NavItem label="PLAYA Y MAR" isOpen={isDropdownOpen} toggle={toggleDropdown}>

@@ -639,6 +639,832 @@
       "precio": 439000,
       "descripcion": "Promo 3 comidas",
       "nombre": "Hotel Acapulco"
-    }
-  ]
+    },
+    {
+      "fecha": "Febrero 13 al 17",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Febrero 14 al 17",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Febrero 14 al 18",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Febrero 17 al 20",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Febrero 20 al 24",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Febrero 21 al 24",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Febrero 21 al 25",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Febrero 24 al 27",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Febrero 28 al 03",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Febrero 28 al 04",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 03 al 06",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 06 al 10",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 07 al 10",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 07 al 11",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 10 al 13",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 10 al 14",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 13 al 17",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 14 al 17",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 14 al 18",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 17 al 20",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 20 al 24",
+      "precio": 959000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Puente - Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 21 al 24",
+      "precio": 710000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Puente - Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 27 al 31",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 28 al 31",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Marzo 28 al 01",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 03 al 07",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 04 al 07",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 04 al 08",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 07 al 10",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 10 al 14",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 11 al 14",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 18 al 21",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 18 al 22",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 21 al 24",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 24 al 28",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 25 al 28",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 25 al 29",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 28 al 01",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Abril 29 al 04",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 01 al 05",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 02 al 05",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 02 al 06",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 05 al 08",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 08 al 12",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 09 al 12",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 09 al 13",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 12 al 15",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 15 al 19",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 16 al 19",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 16 al 20",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 19 al 22",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 22 al 26",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 23 al 26",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 23 al 27",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 26 al 29",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Mayo 29 al 02",
+      "precio": 959000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Puente - Desayuno y Cena"
+    },
+    {
+      "fecha": "Junio 05 al 09",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Junio 06 al 09",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Junio 06 al 10",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Junio 12 al 13",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Junio 13 al 16",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Junio 13 al 17",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Junio 16 al 19",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+    },
+    {
+      "fecha": "Junio 19 al 23",
+      "precio": 959000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Puente - Desayuno y Cena"
+    },
+    {
+      "fecha": "Junio 20 al 23",
+      "precio": 710000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Puente - Desayuno y Cena"
+  },
+  {
+      "fecha": "Junio 26 al 30",
+      "precio": 959000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Puente - Desayuno y Cena"
+  },
+  {
+      "fecha": "Junio 27 al 30",
+      "precio": 710000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Puente - Desayuno y Cena"
+  },
+  {
+      "fecha": "Junio 03 al 06",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 04 al 07",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 04 al 08",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 03 al 07",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 07 al 10",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 09 al 12",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 10 al 14",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 11 al 14",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 11 al 15",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 14 al 17",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 17 al 21",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 18 al 21",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 18 al 22",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 21 al 25",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 24 al 28",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 25 al 28",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 25 al 29",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Julio 31 al 04",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 01 al 04",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 01 al 05",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 04 al 07",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 07 al 11",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 08 al 11",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 08 al 12",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 11 al 14",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 14 al 18",
+      "precio": 959000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Puente - Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 15 al 18",
+      "precio": 710000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Puente - Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 21 al 25",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 22 al 25",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 22 al 26",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 25 al 28",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 28 al 01",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 29 al 01",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Agosto 29 al 02",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 01 al 04",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 04 al 08",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 05 al 08",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 05 al 09",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 08 al 11",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 11 al 15",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 12 al 15",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 12 al 16",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 15 al 18",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 18 al 22",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 19 al 22",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 19 al 23",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 22 al 25",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 25 al 29",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 26 al 29",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 26 al 30",
+      "precio": 775000,
+      "noches": 3,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  },
+  {
+      "fecha": "Septiembre 29 al 02",
+      "precio": 575000,
+      "noches": 2,
+      "nombre": "Condominio Arenillas del Mar",
+      "caracteristicas": "Desayuno y Cena"
+  }
+]
 }
