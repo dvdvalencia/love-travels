@@ -103,7 +103,7 @@
     },
     {
       "fecha": "Febrero 28 al 04",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -117,10 +117,10 @@
     },
     {
       "fecha": "Marzo 06 al 10",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
-      "caracteristicas": "3 comidas"
+      "caracteristicas": "Bar abierto, 3 comidas"
     },
     {
       "fecha": "Marzo 07 al 10",
@@ -131,7 +131,7 @@
     },
     {
       "fecha": "Marzo 07 al 11",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -152,7 +152,7 @@
     },
     {
       "fecha": "Marzo 14 al 18",
-      "precio": 549000,
+      "precio": 555000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "3 comidas"
@@ -166,7 +166,7 @@
     },
     {
       "fecha": "Marzo 20 al 24",
-      "precio": 669000,
+      "precio": 769000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Puente, 3 comidas"
@@ -180,7 +180,7 @@
     },
     {
       "fecha": "Marzo 27 al 31",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -194,14 +194,14 @@
     },
     {
       "fecha": "Marzo 28 al 01",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
     },
     {
       "fecha": "Abril 03 al  07",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -215,7 +215,7 @@
     },
     {
       "fecha": "Abril 04 al 08",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -229,7 +229,7 @@
     },
     {
       "fecha": "Abril 10 al 14",
-      "precio": 549000,
+      "precio": 555000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "3 comidas"
@@ -243,7 +243,7 @@
     },
     {
       "fecha": "Abril 11 al 15",
-      "precio": 549000,
+      "precio": 555000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "3 comidas"
@@ -285,7 +285,7 @@
     },
     {
       "fecha": "Abril 18 al 22",
-      "precio": 549000,
+      "precio": 555000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "3 comidas"
@@ -306,7 +306,7 @@
     },
     {
       "fecha": "Abril 25 al 29",
-      "precio": 549000,
+      "precio": 555000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "3 comidas"
@@ -320,14 +320,14 @@
     },
     {
       "fecha": "Abril 30 al 04",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
     },
     {
       "fecha": "Mayo 01 al 05",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -341,7 +341,7 @@
     },
     {
       "fecha": "Mayo 02 al 06",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -355,7 +355,7 @@
     },
     {
       "fecha": "Mayo 08 al 12",
-      "precio": 549000,
+      "precio": 555000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "3 comidas"
@@ -369,7 +369,7 @@
     },
     {
       "fecha": "Mayo 09 al 13",
-      "precio": 549000,
+      "precio": 555000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "3 comidas"
@@ -383,7 +383,7 @@
     },
     {
       "fecha": "Mayo 15 al 19",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -397,7 +397,7 @@
     },
     {
       "fecha": "Mayo 16 al 20",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -418,7 +418,7 @@
     },
     {
       "fecha": "Mayo 23 al 27",
-      "precio": 549000,
+      "precio": 555000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "3 comidas"
@@ -446,7 +446,7 @@
     },
     {
       "fecha": "Junio 05 al 09",
-      "precio": 549000,
+      "precio": 599000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Promo 3 comidas"
@@ -460,35 +460,43 @@
     },
     {
       "fecha": "Junio 06 al 10",
-      "precio": 549000,
+      "precio": 599000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Promo 3 comidas"
     },
     {
+      "fecha": "Junio 12 al 13",
+      "precio": 629000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Bar abierto, 3 comidas"
+    },
+
+    {
       "fecha": "Junio 13 al 16",
-      "precio": 439000,
+      "precio": 479000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
-      "caracteristicas": "Promo 3 comidas"
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Junio 13 al 17",
-      "precio": 549000,
+      "precio": 629000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
-      "caracteristicas": "Promo 3 comidas"
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Junio 16 al 19",
-      "precio": 439000,
+      "precio": 459000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Junio 19 al 23",
-      "precio": 669000,
+      "precio": 769000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Puente, Promo 3 comidas"
@@ -502,7 +510,7 @@
     },
     {
       "fecha": "Junio 26 al 30",
-      "precio": 669000,
+      "precio": 769000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Puente, Promo 3 comidas"
@@ -515,276 +523,707 @@
       "caracteristicas": "Puente, Promo 3 comidas"
     },
     {
-      "fecha": "Julio 04 al 07",
-      "precio": 439000,
+      "fecha": "Julio 03 al 06",
+      "precio": 479000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
+    },
+    {
+      "fecha": "Julio 03 al 07",
+      "precio": 599000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
       "caracteristicas": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 04 al 07",
+      "precio": 479000,
+      "noches": 2,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Julio 04 al 08",
-      "precio": 549000,
+      "precio": 629000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
+    },
+    {
+      "fecha": "Julio 07 al 10",
+      "precio": 459000,
+      "noches": 2,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 09 al 12",
+      "precio": 459000,
+      "noches": 2,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 10 al 14",
+      "precio": 599000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Promo 3 comidas"
     },
     {
-      "fecha": "Julio 07 al 10",
-      "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
-    },
-    {
-      "fecha": "Julio 09 al 12",
-      "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
-    },
-    {
       "fecha": "Julio 11 al 14",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Julio 11 al 15",
+      "precio": 599000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Julio 14 al 17",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 17 al 21",
+      "precio": 629000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Julio 18 al 21",
+      "precio": 479000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Julio 18 al 22",
+      "precio": 629000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Julio 21 al 25",
-      "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "precio": 599000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Julio 24 al 28",
+      "precio": 599000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Julio 25 al 28",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
-      "fecha": "Julio 25 al 29",
+      "fecha": "Julio 31 al 04",
+      "precio": 599000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
-    {
-      "fecha": "Julio 28 al 25",
-      "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
-    },
+
     {
       "fecha": "Agosto 01 al 04",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Agosto 01 al 05",
+      "precio": 599000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Agosto 04 al 07",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 06 al 10",
+      "precio": 629000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
+    },
+    {
+      "fecha": "Agosto 07 al 11",
+      "precio": 629000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Agosto 08 al 11",
+      "precio": 479000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Agosto 08 al 12",
+      "precio": 629000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Agosto 11 al 14",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Agosto 14 al 18",
+      "precio": 769000,
       "noches": 3,
-      "precio": 669000,
-      "descripcion": "Puente - Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Agosto 15 al 18",
-      "noches": 2,
       "precio": 629000,
-      "descripcion": "Puente - Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "noches": 2,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 21 al 25",
+      "precio": 599000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Agosto 22 al 25",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Agosto 22 al 26",
+      "precio": 599000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Agosto 25 al 28",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Agosto 28 al 01",
+      "precio": 599000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Agosto 29 al 01",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
       "fecha": "Agosto 29 al 02",
+      "precio": 599000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
+
     {
       "fecha": "Septiembre 01 al 04",
+      "precio": 479000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
+    },
+    {
+      "fecha": "Septiembre 04 al 08",
+      "precio": 629000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Septiembre 05 al 08",
+      "precio": 479000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Septiembre 05 al 09",
+      "precio": 629000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Septiembre 08 al 11",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 11 al 15",
+      "precio": 629000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Septiembre 12 al 15",
+      "precio": 479000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Septiembre 12 al 16",
+      "precio": 629000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Septiembre 15 al 18",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
+    },
+    {
+      "fecha": "Septiembre 18 al 22",
+      "precio": 629000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Septiembre 19 al 22",
+      "precio": 479000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Septiembre 19 al 23",
+      "precio": 629000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
     },
     {
       "fecha": "Septiembre 22 al 25",
+      "precio": 459000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
-      "nombre": "Hotel Acapulco"
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas"
     },
     {
+      "fecha": "Septiembre 25 al 29",
+      "precio": 629000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
+    },
+
+    {
       "fecha": "Septiembre 26 al 29",
+      "precio": 479000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
+      "caracteristicas": "Promo 3 comidas, Bar abierto",
       "nombre": "Hotel Acapulco"
     },
     {
       "fecha": "Septiembre 26 al 30",
+      "precio": 629000,
       "noches": 3,
-      "precio": 549000,
-      "descripcion": "Promo 3 comidas",
+      "caracteristicas": "Promo 3 comidas, Bar abierto",
       "nombre": "Hotel Acapulco"
     },
     {
       "fecha": "Septiembre 29 al 02",
+      "precio": 479000,
       "noches": 2,
-      "precio": 439000,
-      "descripcion": "Promo 3 comidas",
+      "caracteristicas": "Promo 3 comidas, Bar abierto",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 02 al 06",
+      "precio": 599000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 03 al 07",
+      "precio": 599000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 03 al 06",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 06 al 09",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 09 al 13",
+      "precio": 769000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 10 al 14",
+      "precio": 769000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 10 al 13",
+      "precio": 629000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 14 al 17",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Semana",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 16 al 20",
+      "precio": 599000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 17 al 21",
+      "precio": 599000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 17 al 20",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 20 al 23",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Semana",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 23 al 27",
+      "precio": 599000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+
+    {
+      "fecha": "Octubre 24 al 28",
+      "precio": 599000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 24 al 27",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 27 al 30",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Semana",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 30 al 03",
+      "precio": 769000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 31 al 04",
+      "precio": 769000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Octubre 31 al 03",
+      "precio": 629000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 04 al 07",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Semana",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 06 al 10",
+      "precio": 599000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 07 al 11",
+      "precio": 599000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 10 al 13",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Semana",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 13 al 17",
+      "precio": 769000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 14 al 18",
+      "precio": 769000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 14 al 17",
+      "precio": 629000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 18 al 21",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Semana",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 20 al 24",
+      "precio": 599000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 21 al 25",
+      "precio": 599000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 21 al 24",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 25 al 27",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Semana",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 27 al 01",
+      "precio": 575000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Bachilleres",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 27 al 02",
+      "precio": 575000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Bachilleres",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Noviembre 28 al 01",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Diciembre 01 al 04",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Semana",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Diciembre 04 al 08",
+      "precio": 769000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Diciembre 05 al 09",
+      "precio": 769000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Diciembre 05 al 08",
+      "precio": 629000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Diciembre 09 al 12",
+      "precio": 459000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Semana",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Diciembre 10 al 14",
+      "precio": 575000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Enero 01 al 05",
+      "precio": 955000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Enero 01 al 04",
+      "precio": 715000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Enero 02 al 06",
+      "precio": 955000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Enero 02 al 05",
+      "precio": 715000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Enero 06 al 10",
+      "precio": 955000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Enero 06 al 09",
+      "precio": 715000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Enero 08 al 12",
+      "precio": 955000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Enero 09 al 13",
+      "precio": 955000,
+      "noches": 3,
+      "caracteristicas": "Promo 3 comidas, Puente",
+      "nombre": "Hotel Acapulco"
+    },
+    {
+      "fecha": "Enero 10 al 13",
+      "precio": 715000,
+      "noches": 2,
+      "caracteristicas": "Promo 3 comidas, Puente",
       "nombre": "Hotel Acapulco"
     },
     {

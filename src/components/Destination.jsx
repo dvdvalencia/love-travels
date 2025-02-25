@@ -55,6 +55,7 @@ const Destination = ({ data, backgroundImage }) => {
         >
           <option value="">Todos los meses</option>
           {[
+            "Enero",
             "Febrero",
             "Marzo",
             "Abril",
