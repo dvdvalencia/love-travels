@@ -82,7 +82,7 @@
     },
     {
       "fecha": "Febrero 21 al 25",
-      "precio": 579000,
+      "precio": 585000,
       "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -124,7 +124,7 @@
     },
     {
       "fecha": "Marzo 07 al 10",
-      "precio": 465000,
+      "precio": 455000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -140,6 +140,20 @@
       "fecha": "Marzo 10 al 13",
       "precio": 439000,
       "noches": 2,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Marzo 10 al 14",
+      "precio": 555000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "3 comidas"
+    },
+    {
+      "fecha": "Marzo 13 al 17",
+      "precio": 555000,
+      "noches": 3,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "3 comidas"
     },
@@ -208,7 +222,7 @@
     },
     {
       "fecha": "Abril 04 al 07",
-      "precio": 465000,
+      "precio": 459000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -222,7 +236,7 @@
     },
     {
       "fecha": "Abril 07 al 10",
-      "precio": 439000,
+      "precio": 459000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -298,11 +312,18 @@
       "caracteristicas": "3 comidas"
     },
     {
+      "fecha": "Abril 24 al 28",
+      "precio": 585000,
+      "noches": 3,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Bar abierto, 3 comidas"
+    },
+    {
       "fecha": "Abril 25 al 28",
-      "precio": 439000,
+      "precio": 459000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
-      "caracteristicas": "3 comidas"
+      "caracteristicas": "Bar abierto, 3 comidas"
     },
     {
       "fecha": "Abril 25 al 29",
@@ -334,10 +355,10 @@
     },
     {
       "fecha": "Mayo 02 al 05",
-      "precio": 439000,
+      "precio": 459000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
-      "caracteristicas": "3 comidas"
+      "caracteristicas": "Bar abierto, 3 comidas"
     },
     {
       "fecha": "Mayo 02 al 06",
@@ -348,7 +369,7 @@
     },
     {
       "fecha": "Mayo 05 al 08",
-      "precio": 465000,
+      "precio": 459000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -390,7 +411,7 @@
     },
     {
       "fecha": "Mayo 16 al 19",
-      "precio": 465000,
+      "precio": 459000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Bar abierto, 3 comidas"
@@ -453,7 +474,7 @@
     },
     {
       "fecha": "Junio 06 al 09",
-      "precio": 439000,
+      "precio": 459000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
       "caracteristicas": "Promo 3 comidas"
@@ -524,6 +545,13 @@
     },
     {
       "fecha": "Julio 03 al 06",
+      "precio": 479000,
+      "noches": 2,
+      "nombre": "Hotel Acapulco",
+      "caracteristicas": "Promo 3 comidas, Bar abierto"
+    },
+    {
+      "fecha": "Julio 04 al 07",
       "precio": 479000,
       "noches": 2,
       "nombre": "Hotel Acapulco",
