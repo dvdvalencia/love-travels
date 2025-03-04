@@ -1,6 +1,14 @@
 {
   "destino": "Capurgana",
   "BGimagen": "https://raw.githubusercontent.com/JhamG9/api-viaja/main/uploads/capurgana/capurgana-sapzurro.webp",
+  "incluye": {
+    "transporte": "En cómodos buses de turismo con aire acondicionado, sillas reclinables.",
+    "alojamiento": "3 noches 4 días en el hotel Riviera del Sol.",
+    "alimentacion": "Desayuno, almuerzo y cena por noche de alojamiento.",
+    "tarjeta_asistencia_medica": "Cobertura en caso de accidente o enfermedad ocasionada por el viaje.",
+    "coctel_bienvenida": "Coctel de bienvenida.",
+    "disfrute": "Disfrute de 2 piscinas, Tobogán, playa y zona de hamacas."
+  },
   "hoteles": [
     {
       "fecha": "Febrero 03 al 07",
@@ -1441,6 +1449,27 @@
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
     },
     {
+      "fecha": "Abril 10 al 14",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 14 al 18",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 16 al 20",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
       "fecha": "Abril 21 al 24",
       "precio": 1849000,
       "noches": 3,
@@ -1898,6 +1927,41 @@
     {
       "fecha": "Diciembre 11 al 15",
       "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 15 al 19",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 18 al 22",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 22 al 26",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 25 al 29",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 29 al 02",
+      "precio": 2069000,
       "noches": 3,
       "nombre": "Hotel Calipso frente a la playa",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."

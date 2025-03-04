@@ -1,359 +1,210 @@
 {
   "destino": "San Andrés",
   "BGimagen": "https://inred.com.co/wp-content/uploads/2020/08/internet_san_andres-1110x550.jpg",
+  "incluye": {
+    "tiquete_aereo": "Medellín - San Andrés - Medellín por Avianca.",
+    "impuestos": "Impuesto de combustible, tarifa administrativa, tasa aeroportuaria.",
+    "tarjeta_asistencia_medica": "Cobertura en caso de accidente o enfermedad durante el viaje.",
+    "alojamiento": "3 y 4 noches en el hotel seleccionado.",
+    "alimentacion": "De acuerdo al plan elegido.",
+    "snacks_media_tarde": "Snacks de media tarde - plan full.",
+    "bar_abierto": "Bar abierto en horarios establecidos por el hotel - plan full.",
+    "seguro_hotelero": "Incluido en todos los hoteles.",
+    "traslado": "Traslado aeropuerto - hotel - aeropuerto.",
+    "coordinador": "Coordinador en San Andrés.",
+    "equipaje": "10 kg en mano y 20 kg en bodega."
+  },
   "fechas_programadas": 2025,
-  "hoteles": [
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 3699000,
-          "DOBLE O MULTIPLE valor por persona": 2649000,
-          "NIÑOS valor cada niño": 2299000
-        }
-      ],
-      "noches": 2,
-      "nombre": "ARENA BLANCA",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 3799000,
-          "DOBLE O MULTIPLE valor por persona": 2749000,
-          "NIÑOS valor cada niño": 2399000
-        }
-      ],
-      "noches": 2,
-      "nombre": "ARENA BLANCA TORRE OASIS",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2929000,
-          "DOBLE O MULTIPLE valor por persona": 2179000,
-          "NIÑOS valor cada niño": 1709000
-        }
-      ],
-      "noches": 2,
-      "nombre": "BAHIA SARDINA TORRE TA",
-      "caracteristicas": "Desayuno y Cena."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2789000,
-          "DOBLE O MULTIPLE valor por persona": 2099000,
-          "NIÑOS valor cada niño": 1649000
-        }
-      ],
-      "noches": 2,
-      "nombre": "BAHIA SARDINA TC",
-      "caracteristicas": "Desayuno y Cena."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2609000,
-          "DOBLE O MULTIPLE valor por persona": 2649000,
-          "NIÑOS valor cada niño": 2299000
-        }
-      ],
-      "noches": 2,
-      "nombre": "BAHIA SARDINA TB",
-      "caracteristicas": "Desayuno y Cena."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2049000,
-          "DOBLE O MULTIPLE valor por persona": 1509000,
-          "NIÑOS valor cada niño": 1429000
-        }
-      ],
-      "noches": 2,
-      "nombre": "BY SAN ANDRES",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 3249000,
-          "DOBLE O MULTIPLE valor por persona": 2099000,
-          "NIÑOS valor cada niño": 1949000
-        }
-      ],
-      "noches": 2,
-      "nombre": "CALYPSO ESTANDAR",
-      "caracteristicas": "Desayuno y Cena."
-    },
-    
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 3549000,
-          "DOBLE O MULTIPLE valor por persona": 2249000,
-          "NIÑOS valor cada niño": 1959000
-        }
-      ],
-      "noches": 2,
-      "nombre": "CALYPSO SUPERIOR",
-      "caracteristicas": "Desayuno y Cena."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 4249000,
-          "DOBLE O MULTIPLE valor por persona": 2599000,
-          "NIÑOS valor cada niño": 2449000
-        }
-      ],
-      "noches": 2,
-      "nombre": "CALYPSO VISTA AL MAR",
-      "caracteristicas": "Desayuno y Cena."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 6499000,
-          "DOBLE O MULTIPLE valor por persona": 3729000,
-          "NIÑOS valor cada niño": 2459000
-        }
-      ],
-      "noches": 2,
-      "nombre": "CASA BLANCA VISTA INTERNA",
-      "caracteristicas": "Desayuno y Cena."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 3699000,
-          "DOBLE O MULTIPLE valor por persona": 2649000,
-          "NIÑOS valor cada niño": 2299000
-        }
-      ],
-      "noches": 2,
-      "nombre": "DORADO VISTA AL MAR",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 3449000,
-          "DOBLE O MULTIPLE valor por persona": 2399000,
-          "NIÑOS valor cada niño": 2049000
-        }
-      ],
-      "noches": 2,
-      "nombre": "DORADO VISTA INTERIOR",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 4359000,
-          "DOBLE O MULTIPLE valor por persona": 3219000,
-          "NIÑOS valor cada niño": 1749000
-        }
-      ],
-      "noches": 2,
-      "nombre": "GRAND SIRENIS ESTANDAR V.I",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 5039000,
-          "DOBLE O MULTIPLE valor por persona": 3679000,
-          "NIÑOS valor cada niño": 1809000
-        }
-      ],
-      "noches": 2,
-      "nombre": "GRAND SIRENIS V.M",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2099000,
-          "DOBLE O MULTIPLE valor por persona": 1899000,
-          "NIÑOS valor cada niño": 1709000
-        }
-      ],
-      "noches": 2,
-      "nombre": "LAS AMERICAS TA SIN SNACKS",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 1949000,
-          "DOBLE O MULTIPLE valor por persona": 1749000,
-          "NIÑOS valor cada niño": 1589000
-        }
-      ],
-      "noches": 2,
-      "nombre": "LAS AMERICAS TA",
-      "caracteristicas": "Desayuno y Cena."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 1799000,
-          "DOBLE O MULTIPLE valor por persona": 1579000,
-          "NIÑOS valor cada niño": 2239000
-        }
-      ],
-      "noches": 2,
-      "nombre": "LAS AMERICAS TA",
-      "caracteristicas": "Solo Desayuno."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2829000,
-          "DOBLE O MULTIPLE valor por persona": 2579000,
-          "NIÑOS valor cada niño": 1709000
-        }
-      ],
-      "noches": 2,
-      "nombre": "LORD PIERRE VISTA INTERNA",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2989000,
-          "DOBLE O MULTIPLE valor por persona": 2739000,
-          "NIÑOS valor cada niño": 2379000
-        }
-      ],
-      "noches": 2,
-      "nombre": "LORD PIERRE VISTA AL MAR",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 3009000,
-          "DOBLE O MULTIPLE valor por persona": 1999000,
-          "NIÑOS valor cada niño": 1789000
-        }
-      ],
-      "noches": 2,
-      "nombre": "PORTOFINO",
-      "caracteristicas": "Desayuno, Almuerzo y Cena."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2149000,
-          "DOBLE O MULTIPLE valor por persona": 1549000,
-          "NIÑOS valor cada niño": 1429000
-        }
-      ],
-      "noches": 2,
-      "nombre": "PORTOFINO",
-      "caracteristicas": "Solo Desayuno."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 5189000,
-          "DOBLE O MULTIPLE valor por persona": 3549000,
-          "NIÑOS valor cada niño": 2339000
-        }
-      ],
-      "noches": 2,
-      "nombre": "SAMAWI ESTANDAR",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, Bar Abierto en horario  especifico del hotel, Snack."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 3009000,
-          "DOBLE O MULTIPLE valor por persona": 2749000,
-          "NIÑOS valor cada niño": 1849000
-        }
-      ],
-      "noches": 2,
-      "nombre": "SOL CARIBE CENTRO Y CAMPO",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2379000,
-          "DOBLE O MULTIPLE valor por persona": 2099000,
-          "NIÑOS valor cada niño": 1529000
-        }
-      ],
-      "noches": 2,
-      "nombre": "SOL CARIBE SEA FLOWER",
-      "caracteristicas": "Desayuno y Cena."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 3519000,
-          "DOBLE O MULTIPLE valor por persona": 2649000,
-          "NIÑOS valor cada niño": 1889000
-        }
-      ],
-      "noches": 2,
-      "nombre": "SUNRISE",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, Bar Abierto en horario  especifico del hotel, Snack de 4 a 5 PM."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2049000,
-          "DOBLE O MULTIPLE valor por persona": 1929000,
-          "NIÑOS valor cada niño": 1649000
-        }
-      ],
-      "noches": 2,
-      "nombre": "TIUNA (SIN SNACKS)",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    },
-    {
-      "fecha": "Febrero  05 al 09",
-      "precio": [
-        {
-          "SENCILLA valor por persona": 2729000,
-          "DOBLE O MULTIPLE valor por persona": 2079000,
-          "NIÑOS valor cada niño": 1849000
-        }
-      ],
-      "noches": 2,
-      "nombre": "VERDE MAR",
-      "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
-    }
-  ]
-}
+  
+    "hoteles": [
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2649000,
+        "noches": 2,
+        "nombre": "ARENA BLANCA",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2749000,
+        "noches": 2,
+        "nombre": "ARENA BLANCA TORRE OASIS",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2179000,
+        "noches": 2,
+        "nombre": "BAHIA SARDINA TORRE TA",
+        "caracteristicas": "Desayuno y Cena."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2099000,
+        "noches": 2,
+        "nombre": "BAHIA SARDINA TC",
+        "caracteristicas": "Desayuno y Cena."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2649000,
+        "noches": 2,
+        "nombre": "BAHIA SARDINA TB",
+        "caracteristicas": "Desayuno y Cena."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 1509000,
+        "noches": 2,
+        "nombre": "BY SAN ANDRES",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2099000,
+        "noches": 2,
+        "nombre": "CALYPSO ESTANDAR",
+        "caracteristicas": "Desayuno y Cena."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2249000,
+        "noches": 2,
+        "nombre": "CALYPSO SUPERIOR",
+        "caracteristicas": "Desayuno y Cena."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2599000,
+        "noches": 2,
+        "nombre": "CALYPSO VISTA AL MAR",
+        "caracteristicas": "Desayuno y Cena."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 3729000,
+        "noches": 2,
+        "nombre": "CASA BLANCA VISTA INTERNA",
+        "caracteristicas": "Desayuno y Cena."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2649000,
+        "noches": 2,
+        "nombre": "DORADO VISTA AL MAR",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2399000,
+        "noches": 2,
+        "nombre": "DORADO VISTA INTERIOR",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 3219000,
+        "noches": 2,
+        "nombre": "GRAND SIRENIS ESTANDAR V.I",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 3679000,
+        "noches": 2,
+        "nombre": "GRAND SIRENIS V.M",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 1899000,
+        "noches": 2,
+        "nombre": "LAS AMERICAS TA SIN SNACKS",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 1749000,
+        "noches": 2,
+        "nombre": "LAS AMERICAS TA",
+        "caracteristicas": "Desayuno y Cena."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 1579000,
+        "noches": 2,
+        "nombre": "LAS AMERICAS TA",
+        "caracteristicas": "Solo Desayuno."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2579000,
+        "noches": 2,
+        "nombre": "LORD PIERRE VISTA INTERNA",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2739000,
+        "noches": 2,
+        "nombre": "LORD PIERRE VISTA AL MAR",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 1999000,
+        "noches": 2,
+        "nombre": "PORTOFINO",
+        "caracteristicas": "Desayuno, Almuerzo y Cena."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 1549000,
+        "noches": 2,
+        "nombre": "PORTOFINO",
+        "caracteristicas": "Solo Desayuno."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 3549000,
+        "noches": 2,
+        "nombre": "SAMAWI ESTANDAR",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, Bar Abierto en horario especifico del hotel, Snack."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2749000,
+        "noches": 2,
+        "nombre": "SOL CARIBE CENTRO Y CAMPO",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2099000,
+        "noches": 2,
+        "nombre": "SOL CARIBE SEA FLOWER",
+        "caracteristicas": "Desayuno y Cena."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2649000,
+        "noches": 2,
+        "nombre": "SUNRISE",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, Bar Abierto en horario especifico del hotel, Snack de 4 a 5 PM."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 1929000,
+        "noches": 2,
+        "nombre": "TIUNA (SIN SNACKS)",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      },
+      {
+        "fecha": "Febrero 05 al 09",
+        "precio": 2079000,
+        "noches": 2,
+        "nombre": "VERDE MAR",
+        "caracteristicas": "Desayuno, Almuerzo y Cena, snacks de media tarde y bar abierto en horario establecido por el hotel."
+      }
+    ]
+  }

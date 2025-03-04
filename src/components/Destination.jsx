@@ -1,9 +1,11 @@
 // // src/components/Destination.jsx
 
+import DestinationDetails from "./DestinationDetails";
 import Filters from "./Filters";
 import HotelList from "./HotelList";
 import useHotelFilters from "@/components/hooks/useHotelFilters";
-import Plan from "@/components/Plan";
+// import Plan from "@/components/Plan";
+
 
 const Destination = ({ data, backgroundImage }) => {
   const { 
@@ -32,8 +34,9 @@ const Destination = ({ data, backgroundImage }) => {
 
       {/* Lista de hoteles */}
       <HotelList filteredHotels={filteredHotels} />
+      <DestinationDetails data={data} />
 
-      <Plan />
+      {/* <Plan /> */}
     </div>
   );
 };

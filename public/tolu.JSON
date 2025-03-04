@@ -1,6 +1,13 @@
 {
   "destino": "Coveñas",
   "BGimagen": "https://cdn.colombia.com/images/v2/turismo/sitios-turisticos/tolu/Mar-Caribe-en-tolu-Covenas-en-Colombia-1200.jpg",
+  "incluye": {
+    "transporte": "De turismo de acuerdo al número de personas con TV, baño, DVD, sillas reclinables.",
+    "alojamiento": "Alojamiento seleccionado en Coveñas sobre la primera línea del mar.",
+    "alimentacion": "Desayuno y cena por noche de alojamiento (entran con cena y salen con desayuno). En Apartahotel Acapulco se obsequian los almuerzos.",
+    "tarjeta_asistencia_medica": "Cobertura en caso de accidente o enfermedad ocasionada por el viaje.",
+    "coordinador_acompanante": "Durante los recorridos turísticos."
+  },
   "fechas_programadas": 2025,
   "hoteles": [
     {

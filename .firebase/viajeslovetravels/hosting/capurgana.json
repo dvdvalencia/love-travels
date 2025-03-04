@@ -366,92 +366,92 @@
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Agosto 04 al 08",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Agosto 07 al 11",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Agosto 11 al 15",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Agosto 14 al 18",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Agosto 18 al 22",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Agosto 21 al 25",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Agosto 25 al 29",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Agosto 28 al 01",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Septiembre 01 al 04",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Septiembre 04 al 08",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Septiembre 08 al 12",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  {
+    },
+    {
       "fecha": "Septiembre 11 al 15",
       "precio": 1479000,
       "noches": 3,
       "nombre": "Hotel las Palmeras sin piscina",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
-  },
-  
+    },
+
     {
       "fecha": "Septiembre 15 al 19",
       "precio": 1479000,
@@ -656,6 +656,13 @@
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
     },
     {
+      "fecha": "Febrero 03 al 07",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
       "fecha": "Febrero 06 al 10",
       "precio": 1759000,
       "noches": 3,
@@ -664,7 +671,1289 @@
     },
     {
       "fecha": "Febrero 10 al 14",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 13 al 17",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 17 al 21",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 20 al 24",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 24 al 28",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 27 al 03 ",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 03 al 07",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 06 al 10",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 10 al 14",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 13 al 17",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 17 al 21",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 20 al 24",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 24 al 28",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 27 al 31",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 31 al 04",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 04 al 08",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 07 al 11",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 10 al 14",
+      "precio": 1979000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 14 al 18",
+      "precio": 1979000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 16 al 20",
+      "precio": 1979000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+
+    {
+      "fecha": "Abril 21 al 24",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 24 al 28",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 28 al 02",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 01 al 05",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 05 al 09",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 08 al 12",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 12 al 16",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 15 al 19",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 19 al 23",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 22 al 26",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 26 al 30",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 02 al 06",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 05 al 09",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 09 al 13",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 12 al 16",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 16 al 20",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 19 al 23",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 23 al 27",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 26 al 30",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 30 al 04",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 03 al 07",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 07 al 11",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 10 al 14",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 14 al 18",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 17 al 21",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 21 al 25",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 24 al 28",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 28 al 01",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 31 al 04",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 04 al 08",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 07 al 11",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 11 al 15",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 14 al 18",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 18 al 22",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 21 al 25",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 25 al 29",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 28 al 01",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 01 al 04",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 04 al 08",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 08 al 12",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 11 al 15",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 15 al 19",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 18 al 22",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 22 al 26",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 25 al 29",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 29 al 03",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 02 al 06",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 06 al 10",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 13 al 17",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 16 al 20",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 20 al 24",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 23 al 27",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 27 al 31",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 30 al 03",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 03 al 07",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 06 al 10",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 10 al 14",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 13 al 17",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 17 al 21",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 20 al 24",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 24 al 28",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 27 al 01",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 01 al 05",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 04 al 08",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 08 al 12",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 11 al 15",
+      "precio": 1759000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 15 al 19",
+      "precio": 1979000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 18 al 22",
+      "precio": 1979000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 22 al 26",
+      "precio": 1979000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 25 al 29",
+      "precio": 1979000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 29 al 02",
+      "precio": 1979000,
+      "noches": 3,
+      "nombre": "Cabañas Samantha",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 03 al 07",
       "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 06 al 10",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 10 al 14",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 13 al 17",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 17 al 21",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 20 al 24",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 24 al 28",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Febrero 27 al 03 ",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 03 al 07",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 06 al 10",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 10 al 14",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 13 al 17",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 17 al 21",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 20 al 24",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 24 al 28",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 27 al 31",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Marzo 31 al 04",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 04 al 08",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 07 al 11",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 10 al 14",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 14 al 18",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 16 al 20",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 21 al 24",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 24 al 28",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Abril 28 al 02",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 01 al 05",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 05 al 09",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 08 al 12",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 12 al 16",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 15 al 19",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 19 al 23",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 22 al 26",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Mayo 26 al 30",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 02 al 06",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 05 al 09",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 09 al 13",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 12 al 16",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 16 al 20",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 19 al 23",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 23 al 27",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 26 al 30",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Junio 30 al 04",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 03 al 07",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 07 al 11",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 10 al 14",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 14 al 18",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 17 al 21",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 21 al 25",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 24 al 28",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 28 al 01",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Julio 31 al 04",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 04 al 08",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 07 al 11",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 11 al 15",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 14 al 18",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 18 al 22",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 21 al 25",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 25 al 29",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Agosto 28 al 01",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 01 al 04",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 04 al 08",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 08 al 12",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 11 al 15",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 15 al 19",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 18 al 22",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 22 al 26",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 25 al 29",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Septiembre 29 al 03",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 02 al 06",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 06 al 10",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 13 al 17",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 16 al 20",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 20 al 24",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 23 al 27",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 27 al 31",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Octubre 30 al 03",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 03 al 07",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 06 al 10",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 10 al 14",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 13 al 17",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 17 al 21",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 20 al 24",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 24 al 28",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Noviembre 27 al 01",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 01 al 05",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 04 al 08",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 08 al 12",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 11 al 15",
+      "precio": 1849000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 15 al 19",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 18 al 22",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 22 al 26",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 25 al 29",
+      "precio": 2069000,
+      "noches": 3,
+      "nombre": "Hotel Calipso frente a la playa",
+      "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."
+    },
+    {
+      "fecha": "Diciembre 29 al 02",
+      "precio": 2069000,
       "noches": 3,
       "nombre": "Hotel Calipso frente a la playa",
       "caracteristicas": "Desayunos, Almuerzos y Cenas por noche de alojamiento."

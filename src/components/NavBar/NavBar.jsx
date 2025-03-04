@@ -41,7 +41,7 @@ const NavBar = () => {
     "Tolú y Coveñas": "/tolu",
     "Arboletes": "/arboletes",
     "Bahía Solano": "/bahia-solano",
-    "Bahía de Triganá":"trigana",
+    "Bahía de Triganá":"/trigana",
     "Capurganá": "/capurgana",
     "Cartagena": "/cartagena",
     "Combinado por el caribe - Terrestre": "/combinado",
