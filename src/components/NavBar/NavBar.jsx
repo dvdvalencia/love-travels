@@ -71,10 +71,11 @@ const NavBar = () => {
     "Sur de Colombia y Tulcán Ecuador": "/tulcan-ecuador",
   };
 
-  return (
-    <div className="fixed top-0 z-50 w-full h-auto text-white "
-      style={{ backgroundImage: 'url(https://th.bing.com/th/id/R.5587996ef551036d330197fc977c8fb8?rik=N5NC1d4AGjzTFg&riu=http%3a%2f%2fisclinical.com%2fmedia%2frevslider%2fSuperSerum%2fSS_BG.jpg&ehk=ZbZJcRrlkPesJMWjtIp45JqLS8yOG6pQskbipmtnmB0%3d&risl=&pid=ImgRaw&r=0)' }}
-    >
+  return (    // <div className="fixed top-0 z-50 w-full h-auto bg-[url('/BGnavBar.jpeg')] text-white ">
+      <div className="fixed top-0 z-50 w-full h-auto text-white"
+      style={{ backgroundImage: 'url(/BGnavBar.jpeg)' }}
+>
+
       <nav className="flex flex-col items-center justify-between px-6 py-4 text-white">
         {/* Logo */}
         <div className="flex items-center w-full space-x-3">
@@ -84,7 +85,7 @@ const NavBar = () => {
           <Link href="/" className="flex-grow text-5xl font-bold text-center">
           <h1 >LOVE TRAVELS</h1>
           </Link>
-          <button className="block ml-auto sm:hidden" onClick={toggleMenu}>
+          <button className="block ml-auto " onClick={toggleMenu}>
             <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d={isMenuOpen ? "M6 18L18 6M6 6l12 12" : "M4 6h16M4 12h16M4 18h16"} />
             </svg>
@@ -92,11 +93,7 @@ const NavBar = () => {
         </div>
 
         {/* Navegación */}
-        <ul className={`flex ${isMenuOpen ? 'flex-col space-y-2' : 'hidden'} mt-2 sm:flex-row sm:space-y-0 sm:space-x-8 sm:mt-0`}>
-
-        {/* <ul className={`flex flex-col mt-2 space-y-2  sm:flex-row sm:space-y-0 sm:space-x-8 sm:mt-0 ${isMenuOpen ? 'block' : 'hidden'} sm:block`}> */}
-        {/* <ul className={`flex ${isMenuOpen ? 'flex-col space-y-2' : ''} mt-2 sm:flex-row sm:space-y-0 sm:space-x-8 sm:mt-0`}> */}
-
+        <ul className={`flex ${isMenuOpen ? 'flex-col space-y-2' : 'hidden'} mt-2 sm:flex-row sm:space-y-0 sm:space-x-8 sm:mt-0 sm:flex`}>
           <NavItem label="PLAYA Y MAR" isOpen={isDropdownOpen} toggle={toggleDropdown}>
             <DropdownMenu locations={seaLocations} customRoutes={customRoutes} />
           </NavItem>

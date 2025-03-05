@@ -1,6 +1,14 @@
 {
   "destino": "Capurgana",
   "BGimagen": "https://raw.githubusercontent.com/JhamG9/api-viaja/main/uploads/capurgana/capurgana-sapzurro.webp",
+  "incluye": {
+    "transporte": "En cómodos buses de turismo con aire acondicionado, sillas reclinables.",
+    "alojamiento": "3 noches 4 días en el hotel Riviera del Sol.",
+    "alimentacion": "Desayuno, almuerzo y cena por noche de alojamiento.",
+    "tarjeta_asistencia_medica": "Cobertura en caso de accidente o enfermedad ocasionada por el viaje.",
+    "coctel_bienvenida": "Coctel de bienvenida.",
+    "disfrute": "Disfrute de 2 piscinas, Tobogán, playa y zona de hamacas."
+  },
   "hoteles": [
     {
       "fecha": "Febrero 03 al 07",

@@ -1,6 +1,13 @@
 {
     "destino": "Santa Marta",
     "BGimagen": "https://www.livincolombia.com.co/images/w.1280/h.853/c.1/mr.1/md.auto/d.guide_photos/sd.2016-08/i.e039a536ba7bab33602f347182fbaf06.jpg",
+    "incluye": {
+    "transporte": "De turismo de acuerdo al número de personas con TV, DVD, baño, sillas reclinables.",
+    "alojamiento": "Acomodación múltiple en el hotel seleccionado.",
+    "alimentacion": "Desayuno y cena por noche de alojamiento.",
+    "tarjeta_asistencia_medica": "Cobertura en caso de accidente o enfermedad ocasionada por el viaje.",
+    "coordinador_acompanante": "Durante los recorridos turísticos."
+  },
     "hoteles": [
       {
         "fecha": "Febrero 14 al 17",

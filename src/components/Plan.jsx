@@ -10,9 +10,6 @@ const Plan = () => {
           TRANSPORTE: De turismo de acuerdo al número de personas con TV, baño,
           DVD, sillas reclinables. <br />
           ALOJAMIENTO: Alojamiento seleccionado con aire acondicionado. <br />
-          {/* ALIMENTACIÓN: Desayuno y cena por noche de alojamiento (entran con
-          cena y salen con desayuno), en Apartahotel Acapulco se obsequian los
-          almuerzos. <br /> */}
           TARJETA DE ASISTENCIA MÉDICA: Cobertura en caso de accidente
           enfermedad ocasionada por el viaje. <br />
           COORDINADOR ACOMPAÑANTE: durante los recorridos turísticos.

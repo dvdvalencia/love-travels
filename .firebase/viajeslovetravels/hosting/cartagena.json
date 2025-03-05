@@ -1,6 +1,13 @@
 {
   "destino": "Cartagena",
   "BGimagen": "https://cdn.colombia.com/images/v2/turismo/sitios-turisticos/tolu/Mar-Caribe-en-tolu-Covenas-en-Colombia-1200.jpg",
+  "incluye": {
+    "transporte": "De turismo ida y regreso de acuerdo al número de personas con TV, DVD, baño, sillas reclinables, aire acondicionado.",
+    "alojamiento": "En el hotel elegido.",
+    "alimentacion": "Desayuno y cena por noche de alojamiento.",
+    "tarjeta_asistencia_medica": "Cobertura en caso de cualquier accidente o enfermedad ocasionada por el viaje. (ver cobertura).",
+    "coordinador_acompanante": "Acompañamiento en el transporte y recorridos turísticos."
+  },
   "fechas_programadas": 2025,
   "hoteles": [
     {
