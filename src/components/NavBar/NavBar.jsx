@@ -72,8 +72,8 @@ const NavBar = () => {
   };
 
   return (    // <div className="fixed top-0 z-50 w-full h-auto bg-[url('/BGnavBar.jpeg')] text-white ">
-      <div className="fixed top-0 z-50 w-full h-auto text-white"
-      style={{ backgroundImage: 'url(/BGnavBar.jpeg)' }}
+      <div className="fixed top-0 z-50 w-full h-auto text-white bg-[url('/BGnavBar.jpeg')] bg-cover bg-center  "
+      // style={{ backgroundImage: 'url(/BGnavBar.jpeg)' }}
 >
 
       <nav className="flex flex-col items-center justify-between px-6 py-4 text-white">
