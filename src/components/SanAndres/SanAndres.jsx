@@ -15,7 +15,7 @@ const SanAndres = () => {
   }, []);
 
   if (!data) {
-    return <div className="text-center text-white">Cargando información...</div>;
+    return <div className="text-center text-white">Cargando información</div>;
   }
 
   return <Destination data={data} backgroundImage="/BGsanAndres.jpg" />;

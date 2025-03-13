@@ -1,0 +1,33 @@
+{
+  "destino": "Bahia Solano",
+  "BGimagen": "https://viajeseventosyturismo.com/wp-content/uploads/2024/03/image-2.png",
+  "incluye": {
+    "TIQUETE_AÉREO": "Medellín - Bahía Solano - Medellín en vuelo directo desde el aeropuerto Olaya Herrera.",
+    "RECIBIMIENTO_Y_MANEJO_DE_EQUIPAJE": "Recibimiento y manejo de equipaje.",
+    "TRASLADOS": "Aeropuerto - muelle y muelle - aeropuerto.",
+    "TRASLADO_MUELLE_HOTEL": "Muelle La Esso - hotel - Muelle La Esso.",
+    "ALOJAMIENTO": "3 noches y 4 días en el Hotel DUBAI con piscina.",
+    "ALIMENTACIÓN": "Desayuno, almuerzo y cena.",
+    "CAMINATAS_ECOLÓGICAS": "2 caminatas ecológicas según el hotel elegido.",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Con Colasistencia.",
+    "SEGURO_DE_CANCELACIÓN": "Incluido.",
+    "IMPUESTOS": "De alojamiento, alimentación y tiquete."
+  },
+  "fechas_programadas": 2025,
+  "hoteles": [
+    {
+      "fecha": "Junio 20 al 23",
+      "precio": 2359000,
+      "noches": 3,
+      "nombre": "Hotel yubarta",
+      "caracteristicas": "Temporada de Ballenas"
+    },
+    {
+      "fecha": "Junio 20 al 23",
+      "precio": 2509000,
+      "noches": 3,
+      "nombre": "Hotel Dubai con piscina",
+      "caracteristicas": "Temporada de Ballenas"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "destino": "Isla Palma",
+  "BGimagen": "https://hotelislapalma.com/wp-content/uploads/2024/01/experiencias-islapalma-6.webp",
+  "incluye": {
+    "TIQUETES_AÉREOS": "Ida y regreso hasta Montería desde Medellín y/o Bogotá.",
+    "TRASLADOS_AEROPUERTO": "Aeropuerto - Hotel - Aeropuerto.",
+    "ALOJAMIENTO_MONTERÍA": "1 noche en el Aparta hotel Acapulco con aire acondicionado y piscina (3 comidas por noche de alojamiento: almuerzo y desayuno).",
+    "DISFRUTE_PLAYAS": "Disfrute de sol y playa en las hermosas playas de Tolú y Coveñas.",
+    "TRASLADOS_TERRESTRES_TOLÚ": "Traslados terrestres desde el hotel hasta Tolú.",
+    "EMBARQUE_BOTE": "Embarque en bote.",
+    "VISTA_PANORÁMICA_ISLA_BOQUERÓN": "Vista panorámica por la Isla Boquerón.",
+    "LLEGADA_ISLA_PALMA": "Llegada al paraíso de Isla Palma con cóctel de bienvenida.",
+    "ALOJAMIENTO_ISLA_PALMA": "2 noches 3 días en habitación estándar con aire acondicionado nocturno y acceso a 1.000 metros de la playa privada ´Las Maldivas Colombianas´.",
+    "ALIMENTACIÓN_ISLA_PALMA": "Tipo Buffet: día 1 (almuerzo y cena), día 2 (desayuno, almuerzo y cena), día 3 (desayuno, almuerzo y cena), día 4 (desayuno).",
+    "RECORRIDO_BIOPARQUE": "Recorrido guiado por el Bioparque: monos titís, aulladores, avestruces, venados, tortugas marinas y variedad de aves.",
+    "SNORKEL": "Snorkel gratis en la zona de playa (llevar equipo).",
+    "PISCINA_JACUZZI": "Piscina tipo Jacuzzi.",
+    "ACTIVIDADES_RECREATIVAS": "Actividades recreativas dirigidas diurnas/nocturnas.",
+    "ZONAS_SOCIALES": "Amplias zonas sociales, asoleadoras, kioscos en la playa.",
+    "TRASLADO_ISLA_PALMA_TOLÚ": "Traslado Isla Palma - Tolú de regreso."
+  },
+  "fechas_programadas": 2025,
+  "hoteles": [
+    {
+      "fecha": "Confirmar DISPONIBILIDAD",
+      "precio": 344850,
+      "noches": 3,
+      "nombre": "Hotel Isla Palma - DOBLE",
+      "caracteristicas": "Valor por persona acomodacion DOBLE"
+    },
+    {
+      "fecha": "Confirmar DISPONIBILIDAD",
+      "precio": 2999000,
+      "noches": 3,
+      "nombre": "Hotel Isla Palma",
+      "caracteristicas": "Valor por persona acomodacion MULTIPLE"
+    }
+  ]
+}

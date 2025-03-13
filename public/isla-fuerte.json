@@ -1,0 +1,30 @@
+{
+    "destino": "Isla Fuerte",
+    "BGimagen": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/A1a1W5ZnGzhMeol3/isla-fuerte-16-dOqlJ1Eaj8C4Wzr3.webp",
+    "incluye": {
+        "TRANSPORTE_TERRESTRE": "Transporte en vehículo especial de turismo de acuerdo al número de pasajeros.",
+        "TRANSPORTE_EN_LANCHA": "Transporte en lancha.",
+        "ALOJAMIENTO": "2 o 3 noches de alojamiento en el Hotel Elegido .",
+        "ALIMENTACIÓN": "Alimentación completa (desayuno, almuerzo y cena).",
+        "INTEGRACIÓN_EN_LA_PLAYA": "Integración en la playa.",
+        "TOURS_Y_CAMINATA_ECOLÓGICA": "Tours y caminata ecológica.",
+        "ASISTENCIA_MÉDICA": "Asistencia médica."
+      },
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Marzo 14 al 17",
+        "precio": 670000,
+        "noches": 2,
+        "nombre": "Hotel Puerto Limon",
+        "caracteristicas": "Desayuno, Almuerzo y Cena"
+      },
+      {
+        "fecha": "Marzo 14 al 17",
+        "precio": 670000,
+        "noches": 2,
+        "nombre": "Hotel Kattymar",
+        "caracteristicas": "Desayuno, Almuerzo y Cena"
+      }
+    ]
+  }

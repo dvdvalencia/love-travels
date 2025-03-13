@@ -1,0 +1,34 @@
+{
+    "destino": "Bahia de Trigana",
+    "BGimagen": "https://estaticos.elcolombiano.com/documents/10157/0/1200x800/0c0/0d0/none/11101/EWBC/image_content_30353450_20180126131006.jpg",
+    "incluye": {
+    "TRANSPORTE_TERRESTRE": "Medellín / Necoclí / Medellín en cómodos buses con aire acondicionado, Tv y sillas reclinables (recorrido de aproximadamente 8 horas y media).",
+    "TRANSPORTE_MARÍTIMO": "Necoclí / Triganá / Necoclí en lanchas triptón tipo yate (capacidad hasta para 98 pasajeros, recorrido de aproximadamente 45 minutos).",
+    "ALOJAMIENTO": "3 noches 4 días en el Hotel elegido cerca de la playa en cómodas habitaciones con ventilador o aire acondicionado y baño privado.",
+    "ALIMENTACIÓN": "Full: desayunos, almuerzos y cenas por noche de alojamiento.",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Cobertura en caso de accidente o enfermedad ocasionado por el viaje.",
+    "COORDINADOR_ACOMPAÑANTE": "Durante los recorridos turísticos.",
+    "TOURS_OPCIONALES": "Caminata ecológica a la reserva Natural Sardi, Caminata ecológica a las Playas de San Pacho (sujetos a disponibilidad).",
+    "IMPUESTOS_DE_ALOJAMIENTO": "Impuestos de alojamiento.",
+    "IMPUESTOS_DE_ALIMENTACIÓN": "Impuestos de alimentación.",
+    "IMPUESTOS_ECOLÓGICOS": "Salida de Necoclí."
+  },
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Confirmar DISPONIBILIDAD",
+        "precio": 1209000,
+        "noches": 3,
+        "nombre": "Cabaña ANAYANSY",
+        "caracteristicas": "Valor por persona"
+      },
+      {
+        "fecha": "Confirmar DISPONIBILIDAD",
+        "precio": 1179000,
+        "noches": 3,
+        "nombre": "Cabaña ANAYANSY",
+        "caracteristicas": "Valor niño (4 a 9 años)"
+      }
+    ]
+  }
+  

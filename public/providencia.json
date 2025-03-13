@@ -1,0 +1,30 @@
+{
+    "destino": "Providencia",
+    "BGimagen": "https://www.worldmoments.org/wp-content/uploads/2019/04/providencia_cayo_cangrejo1.jpg",
+    "incluye": {
+        "TIQUETE_AÉREO": "San Andrés - Providencia - San Andrés clase K, aplica suplemento en otras clases.",
+        "TRASLADOS": "Traslados aeropuerto - hotel - aeropuerto.",
+        "DESAYUNOS": "Incluidos.",
+        "ALOJAMIENTO": "3 noches según el plan y acomodación seleccionados en el hotel Pirata Morgan.",
+        "TARJETA_DE_ASISTENCIA_MÉDICA": "Incluida."
+      }
+      ,
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Confirmar DISPONIBILIDAD",
+        "precio": 1212000,
+        "noches": 3,
+        "nombre": " Pirata Morgan",
+        "caracteristicas": "Habitacion DOBLE"
+      },
+      {
+        "fecha": "Confirmar DISPONIBILIDAD",
+        "precio": 1410000,
+        "noches": 4,
+        "nombre": " Pirata Morgan",
+        "caracteristicas": "Habitacion DOBLE"
+      }
+    ]
+  }
+  

@@ -3,10 +3,6 @@ const DestinationDetails = ({ data }) => {
   
     return (
       <div className="flex flex-col items-center justify-center w-full min-h-screen text-white">
-        
-        <h1 className="mt-40 text-4xl font-bold text-center text-black">{data.destino}</h1>
-        <p className="mt-2 text-lg text-center">Fechas programadas: {data.fechas_programadas}</p>
-  
         <div className="w-11/12 p-4 mt-6 bg-black bg-opacity-50 rounded-lg md:w-2/3">
           <div className="p-4 bg-gray-800 border border-gray-600 rounded-lg bg-opacity-70">
             <h2 className="text-2xl font-semibold text-center text-white">¿Qué incluye?</h2>

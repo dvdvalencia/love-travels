@@ -1,0 +1,31 @@
+{
+  "destino": "Isla Margarita",
+  "BGimagen": "https://viajescolombiaviva.com/wp-content/uploads/2024/04/VIAJES-A-ISLA-MARGARITA-VENEZUELA.jpg",
+  "incluye": {
+    "TIQUETES_AÉREOS": "Medellín - Cali - Porlamar - Cali.",
+    "EQUIPAJE": "23 kg de equipaje por persona.",
+    "ALOJAMIENTO": "7 noches 8 días en el hotel elegido.",
+    "ALIMENTACIÓN": "Full (desayunos, almuerzos y cenas).",
+    "SNACKS": "Entre comidas.",
+    "LICORES_Y_BEBIDAS": "Ilimitadas.",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Incluida.",
+    "TRASLADO": "Aeropuerto - Hotel - Aeropuerto."
+  },
+  "fechas_programadas": 2024,
+  "hoteles": [
+    {
+      "fecha": "Julio 13 al 20",
+      "precio": 3449000,
+      "noches": 6,
+      "nombre": "Hotel LD Punta Playa",
+      "caracteristicas": "Valor por persona acomodacion DOBLE y TRIPLE"
+    },
+    {
+      "fecha": "Julio 13 al 20",
+      "precio": 4329000,
+      "noches": 6,
+      "nombre": "Hotel Sunsol Ecoland",
+      "caracteristicas": "Valor por persona acomodacion DOBLE y TRIPLE"
+    }
+  ]
+}
