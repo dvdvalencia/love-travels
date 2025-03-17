@@ -1,0 +1,21 @@
+{
+    "destino": "La Guajira",
+    "BGimagen": "https://es.wikipedia.org/wiki/Archivo:Cabo_de_la_Vela,_Colombia.jpg",
+    "incluye": {
+    "TRASLADOS": "Desde Medellín a todos los sitios de interés.",
+    "GUÍA_ACOMPAÑANTE": "Durante todo el recorrido.",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Incluida.",
+    "ALOJAMIENTO": "6 noches - 7 días (1 noche en Valledupar, 2 noches en Riohacha, 1 noche en Cabo de la Vela, 2 noches en Santa Marta).",
+    "ALIMENTACIÓN": "Desayuno y cena por noche de alojamiento (6 Desayunos y 6 Cenas)."
+  },
+    "fechas_programadas": 2025,
+    "hoteles": [
+      {
+        "fecha": "Abril 12 al 19",
+        "precio": 1615000,
+        "noches": 6,
+        "nombre": " ",
+        "caracteristicas": "Incluye Valledupar y Santa Marta 6 Desayunos y 6 Cenas Semana santa"
+      }
+    ]
+  }

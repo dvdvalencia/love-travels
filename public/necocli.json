@@ -1,0 +1,30 @@
+{
+    "destino": "Necocli",
+    "BGimagen": "https://www.necocli-antioquia.gov.co/NuestraAlcaldia/SalaDePrensa/PublishingImages/Paginas/Las-playas-de-Necocl%C3%AD-est%C3%A1n-listas-para-el-CARNAVAL-DE-VERANO-2024-%E2%80%9CDanzando-Sin-Pasaporte%E2%80%9D/454741982_518695180673927_1261250067469548272_n.jpg",
+    "incluye": {
+    "TRANSPORTE_TERRESTRE": "En cómodos buses con aire acondicionado, TV y sillas reclinables.",
+    "ALOJAMIENTO": "3 noches 4 días en el hotel elegido.",
+    "ALIMENTACIÓN": "Desayuno y cena por noche de alojamiento según el hotel.",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Con Colasistencia.",
+    "GUÍA_ACOMPAÑANTE": "Durante los recorridos.",
+    "IMPUESTOS_DE_ALOJAMIENTO": "Impuestos de alojamiento.",
+    "IMPUESTOS_DE_ALIMENTACIÓN": "Impuestos de alimentación."
+  },
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Septiembre 16 al 20",
+        "precio": 759000,
+        "noches": 3,
+        "nombre": "Hotel Mansión del Darien",
+        "caracteristicas": "Desayunos y Cenas"
+      },
+      {
+        "fecha": "Septiembre 16 al 20",
+        "precio": 849000,
+        "noches": 3,
+        "nombre": "Hotel El Caribe",
+        "caracteristicas": "Desayunos y Cenas"
+      }
+    ]
+  }

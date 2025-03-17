@@ -1,0 +1,24 @@
+{
+    "destino": "San Bernardo del Viento",
+    "BGimagen": "https://cdn.colombia.com/images/v2/turismo/sitios-turisticos/tolu/Mar-Caribe-en-tolu-Covenas-en-Colombia-1200.jpg",
+    "incluye": {
+    "TRANSPORTE": "De turismo de acuerdo al número de pasajeros con sillas reclinables.",
+    "TRASLADOS": "Traslados de llegada y de salida.",
+    "ALOJAMIENTO": "3 noches 4 días en el hotel Tambos del Caribe, ubicado al frente de la playa con aire acondicionado o hotel similar.",
+    "ALIMENTACIÓN": "Desayuno, almuerzo y cena por noche de alojamiento.",
+    "ASISTENCIA_MÉDICA": "Cobertura total en caso de cualquier accidente o enfermedad ocasionada por el viaje.",
+    "COORDINADOR_ACOMPAÑANTE": "Coordinador acompañante en el recorrido.",
+    "IMPUESTOS_DE_ALOJAMIENTO": "Impuestos de alojamiento.",
+    "IMPUESTOS_DE_ALIMENTACIÓN": "Impuestos de alimentación."
+  },
+    "fechas_programadas": 2025,
+    "hoteles": [
+      {
+        "fecha": "Salidas todos los viernes con regreso lunes",
+        "precio": 1025000,
+        "noches": 3,
+        "nombre": "Hotel Tambos del Caribe",
+        "caracteristicas": "Desayuno, Almuerzo y Cena"
+      }
+    ]
+  }
