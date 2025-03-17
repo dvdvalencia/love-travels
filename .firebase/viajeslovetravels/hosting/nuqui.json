@@ -1,0 +1,30 @@
+{
+    "destino": "Nuqui",
+    "BGimagen": "https://transmundoviajes.com/wp-content/uploads/2021/11/nuqui-paraiso-colombiano-antonio-malave-pdvsa.jpg",
+    "incluye": {
+    "TIQUETE_AÉREO": "Vuelo charter Medellín - Nuquí - Medellín en vuelo directo desde el aeropuerto Olaya Herrera.",
+    "TRASLADO": "Terrestre y marítimo durante los recorridos.",
+    "ALOJAMIENTO": "3 o 4 noches.",
+    "ALIMENTACIÓN": "Desayunos y cenas por noche de alojamiento.",
+    "IMPUESTOS_DE_ALOJAMIENTO": "Impuestos de alojamiento.",
+    "IMPUESTOS_DE_ALIMENTACIÓN": "Impuestos de alimentación.",
+    "IMPUESTOS_DE_TIQUETE": "Impuestos de tiquete."
+  },
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Septiembre 13 al 16 ",
+        "precio": 1799000,
+        "noches": 3,
+        "nombre": "Hotel Delfín Real",
+        "caracteristicas": "Desayunos y Cenas"
+      },
+      {
+        "fecha": "Septiembre 16 al 20",
+        "precio": 1799000,
+        "noches": 3,
+        "nombre": "Hotel Delfín Real",
+        "caracteristicas": "Desayunos y Cenas"
+      }
+    ]
+  }
