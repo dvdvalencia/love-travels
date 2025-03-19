@@ -1,0 +1,22 @@
+{
+    "destino": "Tulcán, Ecuador",
+    "BGimagen": "https://raw.githubusercontent.com/JhamG9/api-viaja/main/uploads/cementerio-tulcan/cementerio-tulcan.webp",
+    "incluye": {},
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Agosto 5 al 8",
+        "precio": 1,
+        "noches": 3,
+        "nombre": "Hotel Tulcán",
+        "caracteristicas": "Desayuno incluido"
+      },
+      {
+        "fecha": "Agosto 5 al 8",
+        "precio": 1,
+        "noches": 3,
+        "nombre": "Hostal Andino",
+        "caracteristicas": "Desayuno y cena"
+      }
+    ]
+  }

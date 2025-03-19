@@ -67,6 +67,7 @@ const NavBar = () => {
     "Llanos Orientales": "/llanos-orientales",
     "Huila al Límite": "/huila",
     "Nevado de Santa Isabel": "/nevado-santa-isabel",
+    "Nevado del Ruiz": "/nevado-del-ruiz",
     "Santander": "/santander",
     "Sur de Colombia y Tulcán Ecuador": "/tulcan-ecuador",
   };

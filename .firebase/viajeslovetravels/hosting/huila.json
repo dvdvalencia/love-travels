@@ -1,0 +1,22 @@
+{
+    "destino": "Huila",
+    "BGimagen": "",
+    "incluye": {},
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Enero 10 al 14",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Hotel Huila",
+        "caracteristicas": "Desayuno, almuerzo y cena"
+      },
+      {
+        "fecha": "Enero 10 al 14",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Eco Hotel Huila",
+        "caracteristicas": "Desayuno incluido"
+      }
+    ]
+  }

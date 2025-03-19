@@ -1,0 +1,22 @@
+{
+    "destino": "Llanos Orientales",
+    "BGimagen": "",
+    "incluye": {},
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Marzo 15 al 19",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Hotel Llanos",
+        "caracteristicas": "Desayuno, almuerzo y cena"
+      },
+      {
+        "fecha": "Marzo 15 al 19",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Posada Llanera",
+        "caracteristicas": "Desayuno incluido"
+      }
+    ]
+  }

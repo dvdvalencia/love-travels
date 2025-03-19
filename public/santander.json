@@ -1,0 +1,29 @@
+
+{
+    "destino": "Santander",
+    "BGimagen": "",
+    "incluye": {
+    "TRANSPORTE": "De turismo de acuerdo al numero de personas, (busetas nuevas no traen baño).",
+    "ALOJAMIENTO": "4 Noches 5 días, 3 noches en San Gil, 1 en Bucaramanga.",
+    "ALIMENTACIÓN": "Desayuno y cena por noche de alojamiento( 4 desayunos y 4 cenas )",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Cobertura en caso de cualquier accidente o enfermedad ocasionada por el viaje.",
+    "COORDINADOR_ACOMPAÑANTE": "Incluido."
+  },
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Mayo 10 al 14",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Hotel Santander",
+        "caracteristicas": "Desayuno, almuerzo y cena"
+      },
+      {
+        "fecha": "Mayo 10 al 14",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Cabañas de la Montaña",
+        "caracteristicas": "Desayuno incluido"
+      }
+    ]
+  }

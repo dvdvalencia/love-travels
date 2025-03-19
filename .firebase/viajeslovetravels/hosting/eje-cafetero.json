@@ -1,0 +1,22 @@
+{
+    "destino": "Eje Cafetero",
+    "BGimagen": "",
+    "incluye": {},
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Febrero 20 al 24",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Hotel Eje Cafetero",
+        "caracteristicas": "Desayuno, almuerzo y cena"
+      },
+      {
+        "fecha": "Febrero 20 al 24",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Finca Cafetera",
+        "caracteristicas": "Desayuno incluido"
+      }
+    ]
+  }

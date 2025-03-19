@@ -1,0 +1,22 @@
+{
+    "destino": "Buga",
+    "BGimagen": "",
+    "incluye": {},
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Noviembre 10 al 12",
+        "precio": 1,
+        "noches": 2,
+        "nombre": "Hotel Buga",
+        "caracteristicas": "Desayuno incluido"
+      },
+      {
+        "fecha": "Noviembre 10 al 12",
+        "precio": 1,
+        "noches": 2,
+        "nombre": "Hostal Buga",
+        "caracteristicas": "Desayuno y cena"
+      }
+    ]
+  }

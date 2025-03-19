@@ -1,0 +1,22 @@
+{
+    "destino": "Bogotá Visa",
+    "BGimagen": "",
+    "incluye": {},
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Junio 21 al 24",
+        "precio": 1,
+        "noches": 3,
+        "nombre": "Hotel",
+        "caracteristicas": "Desayuno, almuerzo y cena"
+      },
+      {
+        "fecha": "Junio 21 al 24",
+        "precio": 1,
+        "noches": 3,
+        "nombre": "Hotel",
+        "caracteristicas": "Desayuno, almuerzo y cena"
+      }
+    ]
+  }

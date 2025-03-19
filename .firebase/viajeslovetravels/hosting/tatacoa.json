@@ -1,0 +1,22 @@
+{
+    "destino": "Tatacoa",
+    "BGimagen": "",
+    "incluye": {},
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Septiembre 15 al 18",
+        "precio": 1,
+        "noches": 3,
+        "nombre": "Hotel Tatacoa",
+        "caracteristicas": "Desayuno y cena"
+      },
+      {
+        "fecha": "Septiembre 15 al 18",
+        "precio": 1,
+        "noches": 3,
+        "nombre": "Cabañas del Desierto",
+        "caracteristicas": "Desayuno incluido"
+      }
+    ]
+  }

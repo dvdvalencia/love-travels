@@ -1,0 +1,22 @@
+{
+    "destino": "Cano Cristales",
+    "BGimagen": "",
+    "incluye": {},
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Octubre 1 al 5",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Hotel Cano Cristales",
+        "caracteristicas": "Desayuno, almuerzo y cena"
+      },
+      {
+        "fecha": "Octubre 1 al 5",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Eco Hotel",
+        "caracteristicas": "Desayuno incluido"
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+    "destino": "Nevado Santa Isabel",
+    "BGimagen": "",
+    "incluye": {},
+    "fechas_programadas": 2024,
+    "hoteles": [
+      {
+        "fecha": "Diciembre 1 al 5",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Refugio Nevado",
+        "caracteristicas": "Desayuno, almuerzo y cena"
+      },
+      {
+        "fecha": "Diciembre 1 al 5",
+        "precio": 1,
+        "noches": 4,
+        "nombre": "Cabañas del Nevado",
+        "caracteristicas": "Desayuno incluido"
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+{
+  "destino": "Boyacá",
+  "BGimagen": "",
+  "incluye": {},
+  "fechas_programadas": 2024,
+  "hoteles": [
+    {
+      "fecha": "Junio 15 al 19",
+      "precio": 1,
+      "noches": 4,
+      "nombre": "Hotel Boyacá",
+      "caracteristicas": "Desayuno, almuerzo y cena"
+    },
+    {
+      "fecha": "Junio 15 al 19",
+      "precio": 1,
+      "noches": 4,
+      "nombre": "Posada de la Libertad",
+      "caracteristicas": "Desayuno incluido"
+    }
+  ]
+}

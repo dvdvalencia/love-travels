@@ -1,0 +1,32 @@
+{
+  "destino": "Amazonas",
+  "BGimagen": "https://wallpapers.com/images/hd/rainfall-jungle-of-amazonas-qs3wy9qyggmq0xjv.jpg",
+  "incluye": {
+    "TIQUETES_AÉREOS": "Medellín - Leticia - Medellín con escala en Bogotá.",
+    "TRASLADOS_AEROPUERTO": "Aeropuerto - hotel - aeropuerto.",
+    "EQUIPAJE_CABINA": "Equipaje en cabina.",
+    "TRASLADOS_INTERNOS": "Fluviales y terrestres en destino.",
+    "ALOJAMIENTO": "3 o 4 noches, en el Hotel elegido.",
+    "ALIMENTACIÓN": "Desayunos y cenas en el hotel.",
+    "GUÍA": "En los recorridos.",
+    "TOURS_Y_RECORRIDOS": "Incluidos.",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Incluida."
+  },
+  "fechas_programadas": 2024,
+  "hoteles": [
+    {
+      "fecha": "Junio 21 al 24",
+      "precio": 2345000,
+      "noches": 3,
+      "nombre": "Hotel Waira",
+      "caracteristicas": "Desayunos y cenas en el hotel"
+    },
+    {
+      "fecha": "Junio 21 al 24",
+      "precio": 1995000,
+      "noches": 3,
+      "nombre": "Hotel Zaruma",
+      "caracteristicas": "Desayunos y cenas en el hotel"
+    }
+  ]
+}
