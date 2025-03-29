@@ -1,0 +1,34 @@
+{
+  "destino": "City Metro",
+  "BGimagen": "",
+  "incluye": {
+    "TRANSPORTE": "En vehículos especiales de turismo según el número de personas.",
+    "GUÍA_ACOMPAÑANTE": "Durante todo el recorrido.",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Incluida.",
+    "AMBIENTE_FAMILIAR": "Disfruta en un agradable ambiente familiar mientras conoces fabulosos lugares de medellin."
+  },
+  "fechas_programadas": 2025,
+  "hoteles": [
+    {
+      "fecha": "Salidas privadas todos los días.",
+      "precio": 144000,
+      "noches": 0,
+      "nombre": "City Tour por Medellín",
+      "caracteristicas": "Valor adulto"
+    },
+    {
+      "fecha": "Salidas privadas todos los días.",
+      "precio": 144000,
+      "noches": 0,
+      "nombre": "City Tour por Medellín",
+      "caracteristicas": "Valor niños mayores de 3 años"
+    },
+    {
+      "fecha": "Salidas privadas todos los días.",
+      "precio": 25000,
+      "noches": 0,
+      "nombre": "City Tour por Medellín",
+      "caracteristicas": "Valor niños menores de 3 años"
+    }
+  ]
+}

@@ -1,7 +1,13 @@
 {
     "destino": "Tatacoa",
     "BGimagen": "",
-    "incluye": {},
+    "incluye": {
+    "TRANSPORTE": "En bus especial de turismo de acuerdo al número de pasajeros a todos los sitios de interés.",
+    "ALOJAMIENTO": "2 noches - 3 días.",
+    "ALIMENTACIÓN": "Desayuno y cena por noche de alojamiento (2 desayunos y 2 cenas).",
+    "COORDINADOR_ACOMPAÑANTE": "Durante todo el recorrido.",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Las 24 horas."
+  },
     "fechas_programadas": 2024,
     "hoteles": [
       {

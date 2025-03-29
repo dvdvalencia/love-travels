@@ -1,21 +1,30 @@
 {
     "destino": "Cano Cristales",
     "BGimagen": "",
-    "incluye": {},
+    "incluye": {
+    "TIQUETES_AÉREOS": "Medellín - La Macarena – Medellín directo.",
+    "TRANSPORTE": "Terrestre y fluvial en los recorridos necesarios.",
+    "EQUIPAJE": "3 Kgs de equipaje de mano y 10 kgs de bodega.",
+    "RECIBIMIENTO": "En la Macarena.",
+    "ALIMENTACIÓN": "Desayunos, almuerzos y cenas por noche de alojamiento.",
+    "ALOJAMIENTO": "3 o 4 noches en el hotel elegido.",
+    "GUÍA_ACOMPAÑANTE": "Durante todo el recorrido habla hispana.",
+    "SEGURO_ASISTENCIA_MÉDICA": "Incluido."
+  },
     "fechas_programadas": 2024,
     "hoteles": [
       {
         "fecha": "Octubre 1 al 5",
         "precio": 1,
         "noches": 4,
-        "nombre": "Hotel Cano Cristales",
+        "nombre": "Hotel La Fuente",
         "caracteristicas": "Desayuno, almuerzo y cena"
       },
       {
         "fecha": "Octubre 1 al 5",
         "precio": 1,
         "noches": 4,
-        "nombre": "Eco Hotel",
+        "nombre": "Hotel Punto verde",
         "caracteristicas": "Desayuno incluido"
       }
     ]

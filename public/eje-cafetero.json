@@ -1,22 +1,322 @@
 {
     "destino": "Eje Cafetero",
     "BGimagen": "",
-    "incluye": {},
-    "fechas_programadas": 2024,
+    "incluye": {
+    "TRANSPORTE": "Buses de turismo de acuerdo al número de personas con TV, DVD, sillas reclinables.",
+    "ALOJAMIENTO": "En Finca Hotel (Piscina, Jacuzzi, fonda y juegos de mesa), cerca a los parques 3N-4D.",
+    "ALIMENTACIÓN": "Desayuno y Cena por noche de alojamiento (3 desayunos - 3 Cenas).",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Cobertura en caso de cualquier accidente o enfermedad ocasionado por el viaje.",
+    "COORDINADOR_ACOMPAÑANTE": "Durante los recorridos turísticos."
+  },
+    "fechas_programadas": 2025,
     "hoteles": [
       {
-        "fecha": "Febrero 20 al 24",
-        "precio": 1,
-        "noches": 4,
-        "nombre": "Hotel Eje Cafetero",
-        "caracteristicas": "Desayuno, almuerzo y cena"
+          "fecha": "Febrero 28 al 03",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
       },
       {
-        "fecha": "Febrero 20 al 24",
-        "precio": 1,
-        "noches": 4,
-        "nombre": "Finca Cafetera",
-        "caracteristicas": "Desayuno incluido"
+          "fecha": "Marzo 04 al 07",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Marzo 07 al 10",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Marzo 11 al 14",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Marzo 14 al 17",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Marzo 18 al 21",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Marzo 21 al 24",
+          "precio": 765000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Marzo 25 al 28",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Marzo 28 al 31",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Abril 01 al 04",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Abril 04 al 07",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Abril 08 al 11",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Abril 11 al 14",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Abril 14 al 17",
+          "precio": 765000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Abril 17 al 20",
+          "precio": 815000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Abril 22 al 25",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Abril 25 al 28",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Abril 29 al 02",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Mayo 02 al 05",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Mayo 06 al 09",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Mayo 09 al 12",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Mayo 13 al 16",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Mayo 16 al 19",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Mayo 20 al 23",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Mayo 23 al 26",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Mayo 27 al 30",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Mayo 30 al 02",
+          "precio": 765000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Junio 03 al 06",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Junio 06 al 09",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Junio 10 al 13",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Junio 13 al 16",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Junio 17 al 20",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Junio 20 al 23",
+          "precio": 765000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Junio 24 al 27",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Junio 27 al 30",
+          "precio": 765000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Julio 01 al 04",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Julio 04 al 07",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Julio 08 al 11",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Julio 11 al 14",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Julio 15 al 18",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Julio 18 al 21",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Julio 22 al 25",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Julio 25 al 28",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
+      },
+      {
+          "fecha": "Julio 29 al 01",
+          "precio": 715000,
+          "noches": 3,
+          "nombre": "FINCA HOTEL ARMENIA CAMPESTRE",
+          "caracteristicas": "Desayuno y Cena"
       }
-    ]
+  ]
   }

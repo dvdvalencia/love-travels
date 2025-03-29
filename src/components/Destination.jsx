@@ -30,6 +30,7 @@ const Destination = ({ data, backgroundImage }) => {
         selectedNights={selectedNights} setSelectedNights={setSelectedNights}
         selectedHotel={selectedHotel} setSelectedHotel={setSelectedHotel}
         uniqueHotels={uniqueHotels} 
+        // uniquePrices={uniquePrices} 
       />
 
       {/* Lista de hoteles */}

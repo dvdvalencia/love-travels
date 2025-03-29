@@ -1,6 +1,6 @@
 {
     "destino": "Tulcán, Ecuador",
-    "BGimagen": "",
+    "BGimagen": "https://raw.githubusercontent.com/JhamG9/api-viaja/main/uploads/cementerio-tulcan/cementerio-tulcan.webp",
     "incluye": {},
     "fechas_programadas": 2024,
     "hoteles": [

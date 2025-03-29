@@ -1,22 +1,51 @@
 {
     "destino": "Bogotá Visa",
     "BGimagen": "",
-    "incluye": {},
+    "incluye": {
+    "TIQUETE_BUS": "Medellín - Bogotá - Medellín en buses de lujo Rápido Ochoa.",
+    "SEGURO_VIAJE": "Incluido.",
+    "TRASLADO_TERMINAL": "Terminal - hotel - Terminal (de 6:00 a.m. a 9:00 p.m.).",
+    "ALOJAMIENTO": "1 noche en el hotel seleccionado (ubicado a 2 cuadras de la embajada).",
+    "IVA_SEGURO_HOTELERO": "Incluidos.",
+    "TRASLADOS_HUELLAS": "Traslados a la toma de huellas.",
+    "PRESENTACIÓN_TERMINAL": "Presentarse con 30 minutos de anterioridad en la Terminal del Norte."
+  },
     "fechas_programadas": 2024,
     "hoteles": [
       {
-        "fecha": "Junio 21 al 24",
-        "precio": 1,
-        "noches": 3,
-        "nombre": "Hotel",
-        "caracteristicas": "Desayuno, almuerzo y cena"
+        "fecha": "SALIDAS TODOS LOS DÍAS",
+        "precio": 450000,
+        "noches": 1,
+        "nombre": " ",
+        "caracteristicas": "Acomodación Sencilla"
       },
       {
-        "fecha": "Junio 21 al 24",
-        "precio": 1,
-        "noches": 3,
-        "nombre": "Hotel",
-        "caracteristicas": "Desayuno, almuerzo y cena"
+        "fecha": "SALIDAS TODOS LOS DÍAS",
+        "precio": 410000,
+        "noches": 1,
+        "nombre": "HOTEL CASA MARIELLE",
+        "caracteristicas": "Acomodación Doble"
+      },
+      {
+        "fecha": "SALIDAS TODOS LOS DÍAS",
+        "precio": 380000,
+        "noches": 1,
+        "nombre": "HOTEL CASA MARIELLE",
+        "caracteristicas": "Acomodación Triple"
+      },
+      {
+        "fecha": "SALIDAS TODOS LOS DÍAS",
+        "precio": 380000,
+        "noches": 1,
+        "nombre": "HOTEL CASA MARIELLE",
+        "caracteristicas": "Acomodación Cuadruple"
+      },
+      {
+        "fecha": "SALIDAS TODOS LOS DÍAS",
+        "precio": 380000,
+        "noches": 1,
+        "nombre": "HOTEL CASA MARIELLE",
+        "caracteristicas": "Acomodación Quintuple"
       }
     ]
   }

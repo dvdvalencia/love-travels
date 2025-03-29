@@ -1,22 +1,91 @@
 {
-    "destino": "Buga",
-    "BGimagen": "",
-    "incluye": {},
-    "fechas_programadas": 2024,
-    "hoteles": [
-      {
-        "fecha": "Noviembre 10 al 12",
-        "precio": 1,
-        "noches": 2,
-        "nombre": "Hotel Buga",
-        "caracteristicas": "Desayuno incluido"
-      },
-      {
-        "fecha": "Noviembre 10 al 12",
-        "precio": 1,
-        "noches": 2,
-        "nombre": "Hostal Buga",
-        "caracteristicas": "Desayuno y cena"
-      }
-    ]
-  }
+  "destino": "Buga",
+  "BGimagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Panor%C3%A1mica_de_Guadalajara_de_Buga_%28002%29.jpg/1200px-Panor%C3%A1mica_de_Guadalajara_de_Buga_%28002%29.jpg",
+  "incluye": {
+    "TRANSPORTE": "Transporte de turismo de acuerdo al número de pasajeros.",
+    "ALOJAMIENTO": "Una noche en Buga, cerca a la Basílica.",
+    "ALIMENTACIÓN": "2 Desayunos, 1 almuerzo y 1 cena.",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Cobertura en caso de accidente enfermedad ocasionada por el viaje.",
+    "COORDINADOR_ACOMPAÑANTE": "Durante los recorridos turísticos."
+  },
+  "fechas_programadas": 2025,
+  "hoteles": [
+    {
+      "fecha": "Febrero 14 al 16",
+      "precio": 380000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    },
+    {
+      "fecha": "Marzo 14 al 16",
+      "precio": 380000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    },
+    {
+      "fecha": "Abril 11 al 13",
+      "precio": 380000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    },
+    {
+      "fecha": "Mayo 16 al 18",
+      "precio": 380000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    },
+    {
+      "fecha": "Junio 13 al 15",
+      "precio": 380000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Misa de sanación, Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    },
+    {
+      "fecha": "Julio 11 al 23",
+      "precio": 380000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    },
+    {
+      "fecha": "Agosto 22 al 24",
+      "precio": 380000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    },
+    {
+      "fecha": "Septiembre 12 al 14",
+      "precio": 410000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Fiesta del milagroso, Misa de sanación, Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    },
+    {
+      "fecha": "Octubre 17 al 19",
+      "precio": 380000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    },
+    {
+      "fecha": "Noviembre 07 al 09",
+      "precio": 380000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    },
+    {
+      "fecha": "Diciembre 12 al 14",
+      "precio": 380000,
+      "noches": 1,
+      "nombre": "Hotel en Buga",
+      "caracteristicas": "Misa de sanación, Termales, 2 Desayunos, 1 Almuerzo, 1 Cena"
+    }
+  ]
+}

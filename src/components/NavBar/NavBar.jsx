@@ -8,6 +8,7 @@ const NavBar = () => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const [isInteriorOpen, setIsInteriorOpen] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isMedellinOpen, setIsMedellinOpen] = useState(false);
 
   const toggleDropdown = () => {
     isInteriorOpen && setIsInteriorOpen(false);
@@ -20,6 +21,15 @@ const NavBar = () => {
     }
     setIsInteriorOpen(!isInteriorOpen);
   };
+
+  const toggleMedellinDropdown = () => {
+    if (isDropdownOpen || isInteriorOpen) {
+      setIsDropdownOpen(false);
+      setIsInteriorOpen(false);
+    }
+    setIsMedellinOpen(!isMedellinOpen);
+  };
+
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
   };
@@ -35,6 +45,11 @@ const NavBar = () => {
     "Cartagena", "Combinado por el caribe - Terrestre", "Isla Fuerte", "Isla Palma",
     "Isla Margarita - Venezuela", "La Guajira", "Santa Marta",
     "San Andrés", "San Bernardo del Viento", "Necoclí", "Nuquí", "Providencia",
+  ];
+
+  const medellinLocations = [
+    "City Metro",
+    "City Metro y Comuna 13",
   ];
 
   const customRoutes = {
@@ -70,6 +85,9 @@ const NavBar = () => {
     "Nevado del Ruiz": "/nevado-del-ruiz",
     "Santander": "/santander",
     "Sur de Colombia y Tulcán Ecuador": "/tulcan-ecuador",
+    
+    "City Metro": "/city-metro",
+    "City Metro y Comuna 13": "/city-metro-comuna-13",
   };
 
   return (    // <div className="fixed top-0 z-50 w-full h-auto bg-[url('/BGnavBar.jpeg')] text-white ">
@@ -101,6 +119,11 @@ const NavBar = () => {
 
           <NavItem label="INTERIOR DE COLOMBIA" isOpen={isInteriorOpen} toggle={toggleInteriorDropdown}>
             <DropdownMenu locations={interiorLocations} customRoutes={customRoutes} />
+          </NavItem>
+
+          	
+          <NavItem label="RECEPTIVOS MEDELLIN" isOpen={isMedellinOpen} toggle={toggleMedellinDropdown}>
+            <DropdownMenu locations={medellinLocations} customRoutes={customRoutes} />
           </NavItem>
 
           <li>

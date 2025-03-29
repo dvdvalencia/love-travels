@@ -1,0 +1,57 @@
+{
+    "destino": "City Metro Comuna 13",
+    "BGimagen": "",
+    "incluye": {
+    "TRANSPORTE": "En vehículos de acuerdo al número de personas.",
+    "GUÍA_LOCAL": "En español.",
+    "RECORRIDO_COMUNA_13": "Murales y graffitis al aire libre.",
+    "VISITA_ESCALERAS_ELÉCTRICAS": "Conoce estas escaleras y sumergete en su historia mientras disfrutas de murales y graffitis.",
+    "INGRESO_METRO_CABLE": "De San Javier.",
+    "TARJETA_DE_ASISTENCIA_MÉDICA": "Incluida."
+  },
+    "fechas_programadas": 2025,
+    "hoteles": [
+      {
+        "fecha": "Verificar Disponibilidad",
+        "precio": 386000,
+        "noches": 0,
+        "nombre": "1 persona",
+        "caracteristicas": "Ingreso al Metro Cable de San Javier"
+      },
+      {
+        "fecha": "Julio 1 al 5",
+        "precio": 265000,
+        "noches": 0,
+        "nombre": "2-3 personas",
+        "caracteristicas": "Ingreso al Metro Cable de San Javier"
+      },
+      {
+        "fecha": "Verificar Disponibilidad",
+        "precio": 212000,
+        "noches": 0,
+        "nombre": "4-5 personas",
+        "caracteristicas": "Ingreso al Metro Cable de San Javier"
+      },
+      {
+        "fecha": "Verificar Disponibilidad",
+        "precio": 191000,
+        "noches": 0,
+        "nombre": "6-8 personas",
+        "caracteristicas": "Ingreso al Metro Cable de San Javier"
+      },
+      {
+        "fecha": "Verificar Disponibilidad",
+        "precio": 168000,
+        "noches": 0,
+        "nombre": "9-12 personas",
+        "caracteristicas": "Ingreso al Metro Cable de San Javier"
+      },
+      {
+        "fecha": "Verificar Disponibilidad",
+        "precio": 156000,
+        "noches": 0,
+        "nombre": "13-15 personas",
+        "caracteristicas": "Ingreso al Metro Cable de San Javier"
+      }
+    ]
+  }
